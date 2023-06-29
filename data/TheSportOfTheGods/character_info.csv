@@ -1,39 +1,38 @@
-"Character ID","Main Name","Aliases"
-"0","An Old Military Man","['An Old Military Man']"
-"1","Another Enemy","['Another Enemy']"
-"2","Aunt Chloe","['Aunt Chloe']"
-"3","Beachfield Davis","['Beachfield Davis']"
-"4","Berry Hamilton","['Berry Hamilton', 'Berry', 'Hamilton', 'Mr. Hamilton']"
-"5","Claire Lessing","['Claire Lessing', 'Claire']"
-"6","Colonel Saunders","['Colonel', 'Colonel Saunders']"
-"7","Jack","['Jack Esterton', 'Jack', 'Esterton']"
-"8","Fannie","['Fannie', 'Fannie Hamilton', 'Mrs. Hamilton']"
-"9","Francis Oakley","['Frank', 'Francis Oakley', 'Francis']"
-"10","Gibson","['Gibson']"
-"11","Griggs","['Griggs', ""Minty's Young Man""]"
-"12","Hattie Sterling","['Hattie', 'Hattie Sterling']"
-"13","Horace Talbot","['Old Horace', 'Horace Talbot']"
-"14","Isaac Brown","['Isaac Brown']"
-"15","Jack","['Jack']"
-"16","Joe","['Joe', 'Joe Hamilton']"
-"17","Kit","['Kitty', 'Kit Hamilton', 'Kitty Hamilton', 'Kit']"
-"18","Leslie","['Leslie Oakley', 'Leslie', 'Mrs. Oakley']"
-"19","Martin","['Martin', 'Mr. Martin']"
-"20","Maudie","['Maudie']"
-"21","Maurice Oakley","['Maurice Oakley', 'Oakley', 'Maurice']"
-"22","Minty Brown","['Brown', 'Minty', 'Minty Brown']"
-"23","Mr. Skaggs","['Skaggsy', 'Skaggs', 'Mr. Skaggs']"
-"24","Mr. Thomas","['Thomas', 'Mr. Thomas']"
-"25","Mr. Turner","['Mr. Turner', 'Banner Club Proprietor']"
-"26","Mrs. Jones","['Mrs. Jones']"
-"27","One Enemy","['One Enemy']"
-"28","One Of The Men","['One Of The Men']"
-"29","One Of The Young Fellows","['One Of The Young Fellows']"
-"30","Sadness","['Sadness', 'Mr. Williams']"
-"31","The Clerk","['The Clerk']"
-"32","The Detective","['The Detective', 'The Officer']"
-"33","The Editor","['The Editor']"
-"34","The Physician","['The Doctor', 'The Physician']"
-"35","The Proprietor","['The Proprietor']"
-"36","_group","['_group']"
-"37","_unknowable","['_unknowable']"
+Character ID,Main Name,Aliases,Gender,Category
+0,An Old Military Man,{'An Old Military Man'},M,minor
+1,Another Enemy,{'Another Enemy'},M,minor
+2,Aunt Chloe,{'Aunt Chloe'},F,minor
+3,Beachfield Davis,{'Beachfield Davis'},M,minor
+4,Berry Hamilton,"{'Berry Hamilton', 'Berry', 'Mr. Hamilton', 'Hamilton'}",M,intermediate
+5,Claire Lessing,"{'Claire', 'Claire Lessing'}",F,minor
+6,Colonel Saunders,"{'Colonel Saunders', 'Colonel'}",M,minor
+7,Fannie Hamilton,"{'Fannie', 'Fannie Hamilton', 'Mrs. Hamilton'}",F,major
+8,Francis Oakley,"{'Francis', 'Frank', 'Francis Oakley'}",M,intermediate
+9,Gibson,['Gibson'],X,minor
+10,Griggs,"{""Minty's Young Man"", 'Griggs'}",M,minor
+11,Hattie Sterling,"{'Hattie Sterling', 'Hattie'}",F,intermediate
+12,Horace Talbot,"{'Horace Talbot', 'Old Horace'}",M,minor
+13,Isaac Brown,{'Isaac Brown'},M,minor
+14,Esterton,"{'Jack', 'Esterton', 'Jack Esterton'}",M,minor
+15,Joe Hamilton,"{'Joe Hamilton', 'Joe'}",M,major
+16,Kitty Hamilton,"{'Kit Hamilton', 'Kitty', 'Kit', 'Kitty Hamilton'}",F,minor
+17,Leslie,"{'Leslie Oakley', 'Mrs. Oakley', 'Leslie'}",F,intermediate
+18,Martin,"{'Mr. Martin', 'Martin'}",M,minor
+19,Maudie,['Maudie'],X,minor
+20,Maurice Oakley,"{'Maurice', 'Maurice Oakley', 'Oakley'}",M,major
+21,Minty Brown,"{'Minty', 'Minty Brown', 'Brown'}",F,minor
+22,Mr. Skaggs,"{'Skaggsy', 'Mr. Skaggs', 'Skaggs'}",M,intermediate
+23,Mr. Thomas,"{'Thomas', 'Mr. Thomas'}",M,intermediate
+24,Mr. Turner,"{'Banner Club Proprietor', 'Mr. Turner'}",M,minor
+25,Mrs. Jones,{'Mrs. Jones'},F,minor
+26,One Enemy,{'One Enemy'},M,minor
+27,One Of The Men,{'One Of The Men'},M,minor
+28,One Of The Young Fellows,{'One Of The Young Fellows'},M,minor
+29,Sadness,"{'Mr. Williams', 'Sadness'}",M,intermediate
+30,The Clerk,{'The Clerk'},M,minor
+31,The Detective,"{'The Officer', 'The Detective'}",M,intermediate
+32,The Editor,{'The Editor'},M,minor
+33,The Physician,"{'The Physician', 'The Doctor'}",M,minor
+34,The Proprietor,{'The Proprietor'},M,minor
+35,_group,['_group'],X,minor
+36,_unknowable,['_unknowable'],X,minor

@@ -1,58 +1,56 @@
-"Character ID","Main Name","Aliases"
-"0","A Bearded Porter","['The Bearded Porter', 'A Bearded Porter']"
-"1","A Friend","['A Friend Of Mrs. Wilcox', 'A Friend']"
-"2","A Girl Opposite","['A Girl Opposite']"
-"3","Albert Fussell","['Mr. Fussell', 'Albert Fussell']"
-"4","An Earnest Girl","['An Earnest Girl']"
-"5","Angelo","['Angelo']"
-"6","Aunt Juley","['Munt', 'Aunt Juley', 'Mrs. Munt']"
-"7","Blanche","['Blanche']"
-"8","Charles","['Charles Wilcox', 'Charles', 'Wilcox Charles']"
-"9","Colonel Fussell","['Colonel Fussell']"
-"10","Crane","[""His Father'S Chauffeur"", 'Crane']"
-"11","Dolly","['Wilcox Dolly', 'Dolly', 'Mrs. Charles', 'Dorothea']"
-"12","Emily","['Emily']"
-"13","Ernst","['Uncle Ernst', 'Ernst', 'Mr. Schlegel']"
-"14","Evie","['Miss Wilcox', 'Evie Wilcox', 'Wilcox Evie', 'Mrs. Cahill', 'Evie']"
-"15","Frieda","['Fraulein Mosebach', 'Frau Liesecke', 'Frieda']"
-"16","Helen","['Schlegel Helen', 'Helen Schlegel', 'Helen']"
-"17","Henry","['Mr. Wilcox', 'Henry', 'Wilcox Henry', 'Henry Wilcox']"
-"18","Herr Forstmeister","['Herr Forstmeister']"
-"19","Herr Liesecke","['Herr Liesecke', 'Bruno']"
-"20","Jacky","['Jacky', 'Mrs. Bast']"
-"21","Laura","['Laura']"
-"22","Leonard","['Leonard Bast', 'Mr. Bast', 'Leonard', ""Margaret'S Young Man""]"
-"23","Madge","['Madge', 'A Most Finished Young Person', ""Miss Avery's Niece""]"
-"24","Mansbridge","['Mansbridge', 'The Doctor']"
-"25","Madge","['Meg', 'Madge', 'Margaret', 'Miss Schlegel', 'Schlegel Margaret']"
-"26","Miss Avery","['Miss Avery', 'An Old Woman']"
-"27","Monica","['Monica']"
-"28","Mr. Cahill","['Percy', 'Mr. Cahill', 'Percy Cahill']"
-"29","Mr. Cunningham","['Mr. Cunningham']"
-"30","Mr. Dealtry","['Mr. Dealtry']"
-"31","Mrs. Plynimmon","['Mrs. Plynimmon']"
-"32","Mrs. Warrington","['Mrs. Warrington']"
-"33","Ruth","['Wilcox Ruth', 'Ruth', 'Ruth Wilcox', 'Mrs. Wilcox']"
-"34","Ruth","['Ruth']"
-"35","Myra","['Myra']"
-"36","Paul","['Wilcox Paul', 'Paul Wilcox', 'Paul']"
-"37","Ruskin","['Ruskin']"
-"38","Simpson","['Simpson']"
-"39","The Child","['The Child']"
-"40","The Coachman","['The Coachman']"
-"41","The Driver","['The Driver']"
-"42","The Man","['The Man', 'A Young Man Low Down In The Education Office']"
-"43","The Parlourmaid","['The Parlourmaid']"
-"44","The Reader Of The Paper","['The Reader Of The Paper']"
-"45","The Ticket Boy","['The Ticket Boy']"
-"46","The Young Wood-Cutter","['The Young Wood-Cutter']"
-"47","Tibby","['Schlegel Tibby', 'Theobald', 'Tibby Schlegel', 'Tibby']"
-"48","Tom","['A Little Boy', 'Tom']"
-"49","_group","['_group']"
-"50","_unknowable","['_unknowable', 'Unknowable']"
-"51","Lady Edser","['Lady Edser']"
-"52","Mrs. Plynlimmon","['Mrs. Plynlimmon', 'Mrs. Plynimmon']"
-"53","The Haughty Nephew","['The Haughty Nephew', 'A Haughty And Magnificent Nephew']"
-"54","Bryce","['Bryce']"
-"55","Cahill","['Cahill']"
-"56","The Porphyrion","['The Porphyrion']"
+Character ID,Main Name,Aliases,Gender,Category
+0,The Bearded Porter,['The Bearded Porter'],X,minor
+1,A Friend Of Mrs. Wilcox,"{'A Friend', 'A Friend Of Mrs. Wilcox'}",F,minor
+2,A Girl Opposite,{'A Girl Opposite'},F,minor
+3,Albert Fussell,"{'Albert Fussell', 'Mr. Fussell'}",M,minor
+4,An Earnest Girl,{'An Earnest Girl'},F,minor
+5,Angelo,{'Angelo'},M,minor
+6,Aunt Juley,"{'Mrs. Munt', 'Aunt Juley', 'Munt'}",F,major
+7,Blanche,{'Blanche'},M,minor
+8,Charles Wilcox,"{'Charles Wilcox', 'Charles', 'Wilcox Charles'}",M,major
+9,Colonel Fussell,{'Colonel Fussell'},M,minor
+10,His Father'S Chauffeur,"{'Crane', ""His Father'S Chauffeur""}",M,minor
+11,Dolly,"{'Wilcox Dolly', 'Dorothea', 'Dolly', 'Mrs. Charles'}",F,intermediate
+12,Emily,['Emily'],X,minor
+13,Uncle Ernst,"{'Ernst', 'Mr. Schlegel', 'Uncle Ernst'}",M,minor
+14,Evie,"{'Evie Wilcox', 'Miss Wilcox', 'Wilcox Evie', 'Mrs. Cahill', 'Evie'}",F,intermediate
+15,Fraulein Mosebach,"{'Fraulein Mosebach', 'Frau Liesecke', 'Frieda'}",F,minor
+16,Helen,"{'Helen Schlegel', 'Schlegel Helen', 'Helen'}",F,major
+17,Mr. Wilcox,"{'Henry', 'Mr. Wilcox', 'Henry Wilcox', 'Wilcox Henry'}",M,major
+18,Herr Forstmeister,['Herr Forstmeister'],X,minor
+19,Herr Liesecke,"{'Herr Liesecke', 'Bruno'}",M,minor
+20,Mrs. Bast,"{'Jacky', 'Mrs. Bast'}",F,minor
+21,Laura,{'Laura'},F,minor
+22,Leonard,"{'Leonard Bast', ""Margaret'S Young Man"", 'Mr. Bast', 'Leonard'}",M,major
+23,Madge,"{'A Most Finished Young Person', 'Madge', ""Miss Avery's Niece""}",F,minor
+24,Mansbridge,"{'Mansbridge', 'The Doctor'}",M,minor
+25,Margaret,"{'Margaret', 'Meg', 'Schlegel Margaret', 'Miss Schlegel'}",F,major
+26,Miss Avery,"{'An Old Woman', 'Miss Avery'}",F,intermediate
+27,Monica,['Monica'],X,minor
+28,Mr. Cahill,"{'Percy Cahill', 'Mr. Cahill', 'Percy'}",M,minor
+29,Mr. Cunningham,{'Mr. Cunningham'},M,minor
+30,Mr. Dealtry,{'Mr. Dealtry'},M,minor
+31,Mrs. Warrington,{'Mrs. Warrington'},F,minor
+32,Mrs. Wilcox,"{'Wilcox Ruth', 'Ruth', 'Mrs. Wilcox', 'Ruth Wilcox'}",F,intermediate
+33,Myra,{'Myra'},F,minor
+34,Paul,"{'Wilcox Paul', 'Paul', 'Paul Wilcox'}",M,minor
+35,Ruskin,['Ruskin'],X,minor
+36,Simpson,['Simpson'],X,minor
+37,The Child,{'The Child'},M,minor
+38,The Coachman,['The Coachman'],X,minor
+39,The Driver,{'The Driver'},M,minor
+40,A Young Man Low Down In The Education Office,"{'A Young Man Low Down In The Education Office', 'The Man'}",M,minor
+41,The Parlourmaid,{'The Parlourmaid'},F,minor
+42,The Reader Of The Paper,{'The Reader Of The Paper'},M,minor
+43,The Ticket Boy,{'The Ticket Boy'},M,minor
+44,The Young Wood-Cutter,['The Young Wood-Cutter'],X,minor
+45,Tibby,"{'Tibby', 'Tibby Schlegel', 'Theobald', 'Schlegel Tibby'}",M,intermediate
+46,A Little Boy,"{'Tom', 'A Little Boy'}",M,minor
+47,_group,['_group'],X,minor
+48,_unknowable,['_unknowable'],X,minor
+49,Lady Edser,['Lady Edser'],F,minor
+50,Mrs. Plynlimmon,"{'Mrs. Plynlimmon', 'Mrs. Plynimmon'}",F,minor
+51,A Haughty And Magnificent Nephew,"{'The Haughty Nephew', 'A Haughty And Magnificent Nephew'}",M,minor
+52,Bryce,['Bryce'],X,minor
+53,Cahill,['Cahill'],X,minor
+54,The Porphyrion,['The Porphyrion'],X,minor

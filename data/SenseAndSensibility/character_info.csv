@@ -1,26 +1,25 @@
-"Character ID","Main Name","Aliases"
-"0","Anne Steele","['Anne Steele', 'Nancy', 'Miss Steele ', 'Anne']"
-"1","Charlotte","['Mrs. Palmer', 'Charlotte Palmer', 'Charlotte']"
-"2","The Colonel","['Brandon', 'Colonel', 'Colonel Brandon', 'The Colonel']"
-"3","Mr. Ferrars","['Edward', 'Robert', 'Ferrars', 'Edward Ferrars', 'Mr. Ferrars']"
-"4","Elinor","['Miss Dashwood', 'Elinor']"
-"5","Fanny","['Fanny', 'Mrs. John Dashwood']"
-"6","Mr. Dashwood","['Mr. Dashwood', 'Dashwood', 'John Dashwood']"
-"7","John Middleton","['Sir John', 'Sir John Middleton', 'John Middleton']"
-"8","Lady Middleton","['Lady Middleton', 'Mary']"
-"9","Lucy Steele","['Lucy', 'Mrs. Robert Ferrars', 'Lucy Steele', 'Miss Steele']"
-"10","Margaret","['Margaret']"
-"11","Marianne","['Miss Marianne', 'Marianne']"
-"12","Mr. Palmer","['Mr. Palmer']"
-"13","Mr. Willoughby","['Willoughby', 'Mr. Willoughby']"
-"14","Mrs. Dashwood","['Mrs. Dashwood']"
-"15","Mrs. Ferrars","['Mrs. Ferrars']"
-"16","Mrs. Jennings","['Mrs. Jennings']"
-"17","Robert Ferrars","['Robert Ferrars']"
-"18","Thomas","['Palmer', 'Thomas', 'Mr. Palmer', 'Man-servant']"
-"19","_group","['_group']"
-"20","_unknowable","['_unknowable']"
-"21","Mr. Pratt","['Mr. Pratt']"
-"22","Footman","['Footman']"
-"23","Eliza Williams ","['Eliza Williams ']"
-"24","Harry","['Harry']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Anne Steele,"{'Anne', 'Nancy', 'Anne Steele'}",F,intermediate
+1,Charlotte,"{'Mrs. Palmer', 'Charlotte Palmer', 'Charlotte'}",F,intermediate
+2,Colonel Brandon,"{'The Colonel', 'Colonel', 'Colonel Brandon', 'Brandon'}",M,intermediate
+3,Edward Ferrars,"{'Edward Ferrars', 'Mr. Ferrars', 'Ferrars', 'Edward', 'Robert'}",M,intermediate
+4,Elinor,"{'Miss Dashwood', 'Elinor'}",F,major
+5,Fanny,"{'Fanny', 'Mrs. John Dashwood'}",F,minor
+6,John Dashwood,"{'Dashwood', 'John Dashwood', 'Mr. Dashwood'}",M,intermediate
+7,John Middleton,"{'John Middleton', 'Sir John', 'Sir John Middleton'}",M,intermediate
+8,Lady Middleton,"{'Lady Middleton', 'Mary'}",F,minor
+9,Lucy Steele,"{'Miss Steele', 'Lucy', 'Mrs. Robert Ferrars', 'Lucy Steele'}",F,intermediate
+10,Margaret,{'Margaret'},F,minor
+11,Marianne,"{'Marianne', 'Miss Marianne'}",F,major
+12,Mr. Willoughby,"{'Willoughby', 'Mr. Willoughby'}",M,intermediate
+13,Mrs. Dashwood,{'Mrs. Dashwood'},F,intermediate
+14,Mrs. Ferrars,{'Mrs. Ferrars'},F,minor
+15,Mrs. Jennings,{'Mrs. Jennings'},F,intermediate
+16,Robert Ferrars,{'Robert Ferrars'},M,minor
+17,Mr. Palmer,"{'Thomas', 'Man-servant', 'Palmer', 'Mr. Palmer'}",M,minor
+18,_group,['_group'],X,minor
+19,_unknowable,['_unknowable'],X,minor
+20,Mr. Pratt,['Mr. Pratt'],M,minor
+21,Footman,{'Footman'},M,minor
+22,Eliza Williams,['Eliza Williams'],X,minor
+23,Harry,['Harry'],X,minor

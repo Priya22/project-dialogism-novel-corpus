@@ -1,0 +1,49 @@
+Character ID,Main Name,Aliases,Gender,Category
+0,A Stray Subaltern,"{'The Subaltern', 'A Stray Subaltern'}",M,minor
+1,A Student,{'A Student'},M,minor
+2,A Young Mohammedan's Mother,"{""A Young Mohammedan's Mother""}",F,minor
+3,Adela Quested,"{'Adela Quested', 'Adela'}",F,major
+4,Ahmed,{'Ahmed'},M,minor
+5,Antony,"{'Goanse Servant', 'Antony'}",M,minor
+6,Dr. Aziz,"{'Dr. Aziz', 'Aziz'}",M,major
+7,Dr. Panna Lal,"{'Dr. Lal', 'Dr. Panna Lal'}",M,intermediate
+8,Hamidullah,{'Hamidullah'},M,intermediate
+9,Hamidullah Begum,{'Hamidullah Begum'},F,minor
+10,Hassan,{'Hassan'},M,minor
+11,Karim,{'Karim'},M,minor
+12,Lady Mellanby,{'Lady Mellanby'},F,minor
+13,Mahmoud Ali,{'Mahmoud Ali'},M,intermediate
+14,Major Callendar,"{'Old Callendar', 'Major Callendar', 'The Civil Surgeon'}",M,intermediate
+15,Miss Derek,"{'Nancy', 'Miss Derek'}",F,intermediate
+16,Mohammed Latif,{'Mohammed Latif'},M,minor
+17,Mr. Amritrao,{'Mr. Amritrao'},M,minor
+18,Mr. Bhattacharya,{'Mr. Bhattacharya'},M,minor
+19,Mr. Das,{'Mr. Das'},M,intermediate
+20,Cyril Fielding,"{'Cyril Fielding', 'Cyril', 'Mr. Fielding', 'Fielding'}",M,major
+21,Mr. Haq,{'Mr. Haq'},M,minor
+22,Mr. Harris,"{'The Eurasian', 'Mr. Harris'}",M,minor
+23,Mr. Mcbryde,"{'Mr. Mcbryde', 'The Superintendent'}",M,intermediate
+24,Mr. Turton,"{'The Collector', 'Burra Sahib', 'Mr. Turton'}",M,intermediate
+25,Mrs. Bhattacharya,{'Mrs. Bhattacharya'},F,minor
+26,Mrs. Blakiston,{'Mrs. Blakiston'},F,minor
+27,Mrs. Callendar,"{'Mrs. Callendar', 'The First Lady', 'Callendar', 'Madame Callendar'}",F,minor
+28,Mrs. Lesley,"{'Madame Lesley', 'Mrs. Lesley', 'Mr. Lesley', 'The Second Lady', 'Lesley'}",F,minor
+29,Mrs. Mcbryde,{'Mrs. Mcbryde'},F,minor
+30,Mrs. Moore,{'Mrs. Moore'},F,major
+31,Mrs. Turton,"{'Mrs. Turton', 'Mary'}",F,intermediate
+32,Nureddin,['Nureddin'],X,minor
+33,Professor Godbole,"{'The Minister Of Education', 'Professor Godbole', 'Narayan Godbole'}",M,intermediate
+34,Rafi,{'Rafi'},M,minor
+35,Rajah,{'Rajah'},M,minor
+36,Ralph,"{'Ralph', 'Ralph Moore'}",M,intermediate
+37,Ram Chand,"{'Ram Chand', 'Mr. Ram Chand', 'A Little Black Man'}",M,minor
+38,Ronny Heaslop,"{'Red-nosed Boy', 'Ronny Heaslop', 'Mr. Heaslop', 'Ronny'}",M,major
+39,Sir Gilbert,{'Sir Gilbert'},M,minor
+40,Syed Mohammed,"{'Mr. Syed Mohammed', 'Syed Mohammed'}",M,minor
+41,The Lady Who Had Been A Nurse,"{'The Lady', 'The Lady Who Had Been A Nurse'}",F,minor
+42,The Medicine Man,{'The Medicine Man'},M,minor
+43,The Missionary,{'The Missionary'},M,minor
+44,The Nawab Badahur,"{'Mr. Zulfiqar', 'Nawab Badahur', 'An Old Gentleman With A Beard', 'The Nawab Badahur'}",M,intermediate
+45,The Servant,{'The Servant'},M,minor
+46,_group,{'_group'},X,minor
+47,_unknowable,{'_unknowable'},X,intermediate

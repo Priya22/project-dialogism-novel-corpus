@@ -3,6 +3,12 @@
 This repository contains data associated with the [The Project Dialogism Novel Corpus:
 A Dataset for Quotation Attribution in Literary Texts](https://arxiv.org/abs/2204.05836).
 
+**Updates (29 JUNE 2023)** 
+- Data for 6 novels has been added to PDNC. The novels are: "Mansfield Park", "Hard Times", "Oliver Twist", "Winnie The Pooh", "Where Angels Fear to Tread", and "A Passage to India".  
+- Character information for many novels has been updated with gender information.
+- Various errors in metadata have been corrected.
+
+
 ## Data and Annotation
 The PDN Corpus contains annotations for speaker, addressees, referring expression, and pronominal mentions for all quotations in full-length novels. 
 
@@ -41,6 +47,8 @@ The IPython notebook `load_data.ipynb` shows how to load and read the data files
 
 
 ## Contact
+Please get in touch with any corrections and/or comments!
+
 - [Krishnapriya Vishnubhotla](https://priya22.github.io/) (University of Toronto)
 - [Adam Hammond](https://www.adamhammond.com/) (University of Toronto)
 - [Graeme Hirst](https://www.cs.toronto.edu/~gh/) (University of Toronto)

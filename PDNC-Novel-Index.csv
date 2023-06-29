@@ -6,9 +6,9 @@ ALIC,Alice’s Adventures in Wonderland,3.0,U,CARR,,Book,Book,1865.0,1865,Macmil
 ANNE,Anne Of Green Gables,3.0,U,MONT,,Book,Book,1908.0,1908,L.C. Page & Company,Boston,United States,children,https://www.gutenberg.org/ebooks/45,"Jovana, Leah",AnneOfGreenGables
 DAIS,Daisy Miller,1.0,M,JAME,,Book,Book,1878.0,1878,The Cornhill Magazine,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/208,"Bisman, Jovana",DaisyMiller
 EMMA,Emma,3.0,A,AUST,,Book,Book,1815.0,1815,John Murray,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/158,"Bisman, Jovana",Emma
-HARD,Hard Times,3.0,U,DICK,,Serial,Book,1854.0,1854,bradbury & Evans,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/786,"Alanna, Sanghoon",
+HARD,Hard Times,3.0,U,DICK,,Serial,Book,1854.0,1854,bradbury & Evans,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/786,"Alanna, Sanghoon",HardTimes
 HOWA,Howards End,3.0,M,FORS,,Book,Book,1910.0,1910,Edward Arnold Publishers Ltd,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/2946,"Beck, Jovana",HowardsEnd
-MANS,Mansfield Park,3.0,A,AUST,,Book,Book,1814.0,1814,Thomas Egerton,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/141,"Sanghoon, Alexander",
+MANS,Mansfield Park,3.0,A,AUST,,Book,Book,1814.0,1814,Thomas Egerton,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/141,"Sanghoon, Alexander",MansfieldPark
 NIDA,Night and Day,3.0,U,WOOL,,Book,Book,1919.0,1919,Gerald Duckworth and Company,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/1245,"Leah, Sanghoon",NightAndDay
 NOAB,Northanger Abbey,3.0,A,AUST,,Book,Book,1817.0,1817,John Murray,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/121,"Alanna, Beck",NorthangerAbbey
 PERS,Persuasion,3.0,A,AUST,,Book,Book,1817.0,1817,John Murray,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/105,"Sanghoon, Sol",Persuasion
@@ -24,6 +24,6 @@ DOGR,The Picture Of Dorian Gray,3.0,U,WILD,,Serial,Book,1890.0,1891,"Ward, Lock 
 FOUR,The Sign of the Four,1.0,M,DOYL,,Serial,Book,1891.0,1891,Spencer Blackett,London,United Kingdom,crime,https://www.gutenberg.org/ebooks/2097,"Jovana, Leah",TheSignOfTheFour
 SPOR,The Sport of the Gods,3.0,U,DUNB,,Book,Book,1902.0,1902,"Dodd, Mead and Company",New York,United States,literary,https://www.gutenberg.org/ebooks/17854,"Leah, Sanghoon",TheSportOfTheGods
 TSAR,The Sun Also Rises,1.0,M,HEMI,,Book,Book,1926.0,1926,Scribner's,New York,United States,literary,https://www.gutenberg.org/ebooks/67138,"Bisman, Jovana",TheSunAlsoRises
-ANGE,Where Angels Fear to Tread,1.0,U,FORS,,Book,Book,1905.0,1905,William Blackwood and Sons,Edinburgh,United Kingdom,literary,https://www.gutenberg.org/ebooks/2948,"Alanna, Diana",
-POOH,Winnie-The-Pooh,1.0,M,MILN,,Serial,Book,1926.0,1926,"Dutton; Methuen & Company, Ltd",London; Boston,United States; United Kingdon,children,https://www.gutenberg.org/ebooks/67098,"Sanghoon, Alanna",
-OLIV,Oliver Twist,3.0,U,DICK,,Serial,Book,1838.0,1838,Richard Bentley,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/730,"Alex, Diana",
+ANGE,Where Angels Fear to Tread,1.0,U,FORS,,Book,Book,1905.0,1905,William Blackwood and Sons,Edinburgh,United Kingdom,literary,https://www.gutenberg.org/ebooks/2948,"Alanna, Diana",WhereAngelsFearToTread
+POOH,Winnie-The-Pooh,1.0,M,MILN,,Serial,Book,1926.0,1926,"Dutton; Methuen & Company, Ltd",London; Boston,United States; United Kingdon,children,https://www.gutenberg.org/ebooks/67098,"Sanghoon, Alanna",WinnieThePooh
+OLIV,Oliver Twist,3.0,U,DICK,,Serial,Book,1838.0,1838,Richard Bentley,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/730,"Alex, Diana",OliverTwist

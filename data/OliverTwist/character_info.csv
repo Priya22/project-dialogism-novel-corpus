@@ -1,0 +1,97 @@
+Character ID,Main Name,Aliases,Gender,Category
+0,Agnes Fleming,{'Agnes Fleming'},F,minor
+1,Anny,{'Anny'},F,minor
+2,Barney,{'Barney'},M,minor
+3,Becky,{'Becky'},F,minor
+4,Ben,"{'Ben', 'The Mail Guard'}",M,minor
+5,Betsy,"{'Miss Betsy', 'Betsy', 'Bet'}",F,minor
+6,Bill Sikes,"{'Sikes', 'The Robber', 'Mr. Bill Sikes', 'The Spy', 'Bill', 'Mr. Sikes', 'Bill Sikes'}",M,major
+7,Mr. Blathers,"{'Mr. Blathers', 'Blathers'}",M,intermediate
+8,Mr. Brittles,"{'Brittles', 'Mr. Brittles'}",M,minor
+9,Charley Bates,"{'Master Bates', 'Bates', 'Charley Bates', 'Master Charley Bates', 'Charley'}",M,intermediate
+10,Mrs. Bolter,"{'Charlotte', 'Mrs. Bolter'}",F,intermediate
+11,Dick,"{'Dick', 'The Child'}",M,minor
+12,Mr. Duff,"{'Duff', 'Mr. Duff'}",M,minor
+13,Fagin,"{'Fagin', 'Faguey', 'Mr. Fagin', 'The Jew'}",M,major
+14,Mr. Gamfield,"{'Gamfield', 'Mr. Gamfield'}",M,minor
+15,Mr. Giles,"{'Giles', 'Mr. Giles'}",M,intermediate
+16,Harry Maylie,"{'Mr. Maylie', 'Harry Maylie', 'Mr. Harry', 'Harry'}",M,intermediate
+17,Harry The Peddler,"{'Harry The Peddler', 'The Peddler'}",M,minor
+18,Joe,"{'Joe', 'The Waiter'}",M,minor
+19,Kags,"{'Kags', 'Mr. Kags'}",M,minor
+20,Mr. Lively,"{'Mr. Lively', 'Lively'}",M,minor
+21,Martha,{'Martha'},F,minor
+22,Monks,"{'Edward Leeford', 'Monks'}",M,major
+23,Mr. Bayton,{'Mr. Bayton'},M,minor
+24,Mr. Brownlow,"{'Mr. Brownlow', 'Brownlow'}",M,major
+25,Mr. Bumble,"{'Bumble', 'The Beadle', 'Mr. Bumble'}",M,major
+26,Mr. Chitling,"{'Chitling', 'Tom Chitling', 'Tommy', 'Tommy Chitling', 'Mr. Chitling', 'Tom'}",M,intermediate
+27,Mr. Fang,"{'Mr. Fang', 'Fang'}",M,intermediate
+28,Mr. Grimwig,"{'Grimwig', 'Mr. Grimwig'}",M,intermediate
+29,Mr. Limbkins,"{'The Gentleman In The High Chair', 'Mr. Limbkins'}",M,minor
+30,Mr. Losberne,"{'Doctor Losberne', 'Mr. Losberne'}",M,major
+31,Mr. Sowerberry,"{'Sowerberry', 'Mr. Sowerberry', 'The Undertaker'}",M,intermediate
+32,Mrs. Bedwin,"{'Mrs. Bedwin', 'Bedwin'}",F,intermediate
+33,Mrs. Corney,"{'The Matron', 'Mrs. Bumble', 'Mrs. Corney', 'Corney'}",F,major
+34,Mrs. Mann,"{'Mrs. Mann', 'Mann'}",F,intermediate
+35,Mrs. Maylie,{'Mrs. Maylie'},F,intermediate
+36,Mrs. Sowerberry,{'Mrs. Sowerberry'},F,intermediate
+37,Nance,"{'Nancy', 'Miss Nancy', 'Nance'}",F,major
+38,Noah Claypole,"{'The Charity-Boy', 'Mr. Morris Bolter', 'Noah Claypole', 'Claypole', 'Noah', 'Morris Bolter', 'Mr. Bolter', 'Mr. Claypole', 'Bolter'}",M,major
+39,Mrs. Thingummy,"{'Sally', 'The Nurse', 'Old Sally', 'Mrs. Thingummy'}",F,intermediate
+40,Oliver Twist,"{'Oliver Twist', 'Twist', 'Nolly', 'Oliver'}",M,major
+41,Rose Maylie,"{'Miss Maylie', 'Rose Maylie', 'Rose', 'Miss Rose'}",F,major
+42,The Parish Apothecary's Apprentice,"{""The Apothecary's Apprentice"", ""The Parish Apothecary's Apprentice""}",M,minor
+43,The Book-stall Keeper,{'The Book-stall Keeper'},M,minor
+44,The Clerk At Oliver's Trial,"{""The Clerk At Oliver's Trial"", 'The Clerk'}",M,minor
+45,The Clerk At The Dodger's Trial,"{'The Second Clerk', ""The Clerk At The Dodger's Trial""}",M,minor
+46,The Coachman,"{'The Coachman', 'The Mail Coachman'}",M,minor
+47,The Constable,{'The Constable'},M,minor
+48,The Cook,{'The Cook'},F,minor
+49,The Doctor,{'The Doctor'},M,minor
+50,The Artful Dodger,"{'Jack', 'The Artful', 'The Artful Dodger', 'Mr. Dawkins', 'The Dodger', 'Dodger', 'Jack Dawkins'}",M,intermediate
+51,The Driver,{'The Driver'},M,minor
+52,The Fireman,{'The Fireman'},M,minor
+53,The First Housemaid,{'The First Housemaid'},F,minor
+54,The Fourth Housemaid,['The Fourth Housemaid'],X,minor
+55,The Game-keeper,{'The Game-keeper'},M,minor
+56,The Gentleman In The White Waistcoat,{'The Gentleman In The White Waistcoat'},M,minor
+57,The Good-tempered Man-cook,"{'The Soft-hearted Cook', 'The Good-tempered Man-cook'}",M,minor
+58,The Great Lubberly Fellow,{'The Great Lubberly Fellow'},M,minor
+59,The Grinning Countryman,{'The Grinning Countryman'},M,minor
+60,The Guard,['The Guard'],X,minor
+61,The Housemaid,{'The Housemaid'},F,minor
+62,The Hump-backed Man,{'The Hump-backed Man'},M,minor
+63,The Jailer At Oliver's Trial,"[""The Jailer At Oliver's Trial""]",X,minor
+64,The Jailer At The Dodger's Trial,"{'The Second Jailer', ""The Jailer At The Dodger's Trial""}",M,minor
+65,The Labouring Man,"{'The Labouring Man', 'The Labourer'}",M,minor
+66,The Landlord Of The Cripples,{'The Landlord Of The Cripples'},M,minor
+67,The Looker-on,{'The Looker-on'},U,minor
+68,The Magistrate At The Dodger's Trial,"{'The Magistrate', ""The Magistrate At The Dodger's Trial""}",M,minor
+69,The Magistrate With Spectacles,{'The Magistrate With Spectacles'},M,minor
+70,The Magistrate With The Newspaper,{'The Magistrate With The Newspaper'},M,minor
+71,The Master,{'The Master'},M,minor
+72,The Medical Practitioner,{'The Medical Practitioner'},M,minor
+73,The Neighbours' Servant,"{""The Neighbours' Servant""}",F,minor
+74,The Office Keeper,{'The Office Keeper'},M,minor
+75,The Officer,{'The Officer'},M,minor
+76,The Old Pauper,{'The Old Pauper'},M,minor
+77,The Old Woman,{'The Old Woman'},F,minor
+78,The Police Officer,{'The Police Officer'},M,minor
+79,The Second Housemaid,{'The Second Housemaid'},F,minor
+80,The Servant,{'The Servant'},U,minor
+81,The Sleepy-faced Carpenter,{'The Sleepy-faced Carpenter'},U,minor
+82,The Smartly-dressed Female,"{'The Smartly-dressed Servant', 'The Smartly-dressed Female'}",F,minor
+83,The Stout Man,{'The Stout Man'},M,minor
+84,The Surgeon,{'The Surgeon'},M,minor
+85,The Third Housemaid,{'The Third Housemaid'},F,minor
+86,The Tinker,"{'The Travelling Tinker', 'The Tinker'}",M,minor
+87,The Turnkey,"{""Fagin's Jailer"", 'The Turnkey'}",M,minor
+88,The Vagrant,{'The Vagrant'},M,minor
+89,The Watchman,{'The Watchman'},M,minor
+90,Toby Crackit,"{'Mr. Crackit', 'Toby Crackit', 'Crackit', 'Toby'}",M,intermediate
+91,_group,{'_group'},X,minor
+92,_unknowable,{'_unknowable'},X,intermediate
+93,Conkey Chickweed,['Conkey Chickweed'],X,minor
+94,The Attendant,['The Attendant'],X,minor
+95,The Policeman,['The Policeman'],X,minor

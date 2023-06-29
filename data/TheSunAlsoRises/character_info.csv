@@ -1,52 +1,52 @@
-"Character ID","Main Name","Aliases"
-"0","A Carabineer In His Cocked Hat","['A Carabineer In His Cocked Hat']"
-"1","Priest","['Priest', 'A Priest']"
-"2","Waiter","['A Waiter', 'Waiter']"
-"3","An Old Man","['An Old Man', 'Old Man On The Bus']"
-"4","Belmonte","['Belmonte']"
-"5","Bill Gorton","['Bill Gorton']"
-"6","Brett Ashley","['Lady Brett Ashley', 'Lady Ashley', 'Lady Brett', 'Brett Ashley', 'Brett']"
-"7","Count Mippipopolous","['Count Mippipopolous']"
-"8","Edna","['Edna']"
-"9","Frances Clyne","['Frances Clyne']"
-"10","Georgette","['Mademoiselle Georgette Leblanc', 'Georgette', 'Hobin', 'Mademoiselle Leblanc', 'Mademoiselle Hobin']"
-"11","Harris","['Harris', 'Wilson-harris']"
-"12","Harvey Stone","['Harvey Stone']"
-"13","Henry Braddocks","['Henry Braddocks', 'Braddocks']"
-"14","Hubert","['Hubert']"
-"15","Jake Barnes","['Mr. Barnes', 'Barnes', 'Jake Barnes', '_narr', 'Jacob']"
-"16","Krum","['Krum']"
-"17","Lett","['The Tall Dark One', 'Lett']"
-"18","Madame Lecomte","['Madame Lecomte']"
-"19","Mike Campbell","['Mr. Campbell', 'Mike Campbell', 'Michael']"
-"20","Montoya","['Montoya']"
-"21","Mrs. Braddocks","['Mrs. Braddocks']"
-"22","Pedro Romero","['Pedro Romero', 'Romero']"
-"23","Robert Cohn","['Mr. Cohn', 'Cohn', 'Robert Cohn']"
-"24","Robert Prentiss","['Robert Prentiss']"
-"25","Sommelier","['Sommelier']"
-"26","The Basque","['The Basque']"
-"27","The Carabineer","['The Guard', 'The Carabineer']"
-"28","The Chauffeur","['Henry', 'The Chauffeur']"
-"29","The Concierge","['The Concierge', 'Madame Duzinell']"
-"30","The Conductor","['The Conductor', 'The Dining-car Conductor']"
-"31","The Critic","['The Critic', 'Rafael Romero', 'Rafael', ""Pedro's Brother""]"
-"32","The Drummer","['The Drummer']"
-"33","The Man","['The Man', 'The Husband']"
-"34","The Liaison Colonel","['The Liaison Colonel']"
-"35","The Patronne","['The Patronne']"
-"36","The Porter","['The Porter']"
-"37","The Waiter","['The Waiter']"
-"38","The Wife","['The Wife']"
-"39","The Inn Woman","['The Inn Woman', 'The Fat Woman', 'The Woman Who Ran The Inn', 'The Woman']"
-"40","Woolsey","['Woolsey']"
-"41","Young Man","['Young Man']"
-"42","Zizi","['Zizi']"
-"43","_unknowable","['_unknowable']"
-"44","The Barman","['The Barman']"
-"45","The Chambermaid","['The Chambermaid']"
-"46","The Driver","['The Driver']"
-"47","The German Maître D'hôtel","[""The German Maître D'hôtel""]"
-"48","The Maid","['The Maid']"
-"49","The Wavy Blond One","['The Wavy Blond One', 'The Tall Blond Youth']"
-"50","_group","['_group']"
+Character ID,Main Name,Aliases,Gender,Category
+0,A Carabineer In His Cocked Hat,{'A Carabineer In His Cocked Hat'},M,minor
+1,A Priest,"{'A Priest', 'Priest'}",M,minor
+2,A Waiter,"{'Waiter', 'A Waiter'}",M,minor
+3,An Old Man,"{'An Old Man', 'Old Man On The Bus'}",M,minor
+4,Belmonte,['Belmonte'],X,minor
+5,Bill Gorton,{'Bill Gorton'},M,major
+6,Brett Ashley,"{'Brett', 'Lady Brett', 'Lady Brett Ashley', 'Lady Ashley', 'Brett Ashley'}",F,major
+7,Count Mippipopolous,{'Count Mippipopolous'},M,intermediate
+8,Edna,{'Edna'},F,intermediate
+9,Frances Clyne,{'Frances Clyne'},F,intermediate
+10,Georgette,"{'Mademoiselle Leblanc', 'Hobin', 'Mademoiselle Georgette Leblanc', 'Mademoiselle Hobin', 'Georgette'}",F,intermediate
+11,Harris,"{'Harris', 'Wilson-harris'}",M,intermediate
+12,Harvey Stone,{'Harvey Stone'},M,intermediate
+13,Henry Braddocks,"{'Henry Braddocks', 'Braddocks'}",M,minor
+14,Hubert,{'Hubert'},M,minor
+15,Jake Barnes,"{'_narr', 'Barnes', 'Mr. Barnes', 'Jacob', 'Jake Barnes'}",M,major
+16,Krum,{'Krum'},M,minor
+17,Lett,"{'The Tall Dark One', 'Lett'}",M,minor
+18,Madame Lecomte,{'Madame Lecomte'},F,minor
+19,Mike Campbell,"{'Mike Campbell', 'Mr. Campbell', 'Michael'}",M,major
+20,Montoya,{'Montoya'},M,intermediate
+21,Mrs. Braddocks,{'Mrs. Braddocks'},F,minor
+22,Pedro Romero,"{'Pedro Romero', 'Romero'}",M,intermediate
+23,Robert Cohn,"{'Robert Cohn', 'Mr. Cohn', 'Cohn'}",M,major
+24,Robert Prentiss,{'Robert Prentiss'},M,minor
+25,Sommelier,{'Sommelier'},M,minor
+26,The Basque,{'The Basque'},M,minor
+27,The Carabineer,"{'The Guard', 'The Carabineer'}",M,minor
+28,The Chauffeur,"{'Henry', 'The Chauffeur'}",M,minor
+29,The Concierge,"{'The Concierge', 'Madame Duzinell'}",M,minor
+30,The Conductor,"{'The Conductor', 'The Dining-car Conductor'}",M,minor
+31,Rafael Romero,"{'Rafael Romero', 'Rafael', ""Pedro's Brother"", 'The Critic'}",M,minor
+32,The Drummer,{'The Drummer'},M,minor
+33,The Husband,"{'The Husband', 'The Man'}",M,minor
+34,The Liaison Colonel,{'The Liaison Colonel'},M,minor
+35,The Patronne,{'The Patronne'},F,minor
+36,The Porter,{'The Porter'},M,minor
+37,The Waiter,{'The Waiter'},M,minor
+38,The Wife,{'The Wife'},F,minor
+39,The Woman Who Ran The Inn,"{'The Inn Woman', 'The Woman', 'The Fat Woman', 'The Woman Who Ran The Inn'}",F,minor
+40,Woolsey,{'Woolsey'},M,minor
+41,Young Man,['Young Man'],M,minor
+42,Zizi,{'Zizi'},M,minor
+43,_unknowable,['_unknowable'],X,minor
+44,The Barman,['The Barman'],X,minor
+45,The Chambermaid,['The Chambermaid'],X,minor
+46,The Driver,['The Driver'],X,minor
+47,The German Maître D'hôtel,"[""The German Maître D'hôtel""]",X,minor
+48,The Maid,['The Maid'],X,minor
+49,The Wavy Blond One,['The Wavy Blond One'],X,minor
+50,_group,['_group'],X,minor

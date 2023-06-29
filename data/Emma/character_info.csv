@@ -1,19 +1,19 @@
-"Character ID","Main Name","Aliases"
-"0","Emma","['Miss Woodhouse', 'Emma', 'Emma Woodhouse']"
-"1","Frank Churchill","['Frank', 'Frank Churchill', 'Mr. Churchill', 'Mr. Frank Churchill']"
-"2","Harriet","['Miss Smith', 'Harriet', 'Harriet Smith']"
-"3","Isabella","['Isabella Woodhouse', 'Isabella', 'Mrs. John Knightley']"
-"4","Jane Fairfax","['Jane', 'Jane Fairfax', 'Miss Fairfax']"
-"5","John Knightley","['John', 'Mr. John Knightley', 'John Knightley']"
-"6","Knightley","['Mr. Knightley', 'George', 'Knightley', 'George Knightley']"
-"7","Miss Bates","['Miss Bates']"
-"8","Mr. Elton","['Mr. Elton', 'Mr. E.', 'Elton']"
-"9","Mr. Weston","['Weston', 'Mr. Weston']"
-"10","Mr. Woodhouse","['Henry Woodhouse', 'Mr. Woodhouse']"
-"11","Mrs. Bates","['Mrs. Bates']"
-"12","Mrs. Cole","['Mrs. Cole']"
-"13","Mrs. Elton","['Augusta Hawkins', 'Mrs. Elton', 'Augusta', 'Miss Hawkins']"
-"14","Mrs. Ford","['Mrs. Ford']"
-"15","Mrs. Weston","['Miss Taylor', 'Mrs. Weston', 'Anne']"
-"16","_group","['_group']"
-"17","_unknowable","['_unknowable']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Emma,"{'Emma', 'Miss Woodhouse', 'Emma Woodhouse'}",F,major
+1,Mr. Frank Churchill,"{'Frank Churchill', 'Mr. Churchill', 'Frank', 'Mr. Frank Churchill'}",M,major
+2,Harriet Smith,"{'Miss Smith', 'Harriet Smith', 'Harriet'}",F,major
+3,Isabella,"{'Mrs. John Knightley', 'Isabella Woodhouse', 'Isabella'}",F,intermediate
+4,Jane Fairfax,"{'Miss Fairfax', 'Jane', 'Jane Fairfax'}",F,intermediate
+5,Mr. John Knightley,"{'John Knightley', 'Mr. John Knightley', 'John'}",M,intermediate
+6,Mr. Knightley,"{'George', 'Mr. Knightley', 'Knightley', 'George Knightley'}",M,major
+7,Miss Bates,{'Miss Bates'},F,intermediate
+8,Mr. Elton,"{'Mr. E.', 'Mr. Elton', 'Elton'}",M,intermediate
+9,Mr. Weston,"{'Mr. Weston', 'Weston'}",M,intermediate
+10,Mr. Woodhouse,"{'Mr. Woodhouse', 'Henry Woodhouse'}",M,intermediate
+11,Mrs. Bates,{'Mrs. Bates'},F,minor
+12,Mrs. Cole,{'Mrs. Cole'},F,minor
+13,Mrs. Elton,"{'Augusta', 'Miss Hawkins', 'Mrs. Elton', 'Augusta Hawkins'}",F,intermediate
+14,Mrs. Ford,{'Mrs. Ford'},F,minor
+15,Mrs. Weston,"{'Anne', 'Mrs. Weston', 'Miss Taylor'}",F,intermediate
+16,_group,['_group'],X,minor
+17,_unknowable,['_unknowable'],X,minor

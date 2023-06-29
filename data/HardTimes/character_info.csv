@@ -1,0 +1,39 @@
+Character ID,Main Name,Aliases,Gender,Category
+0,Bitzer,"{'Bitzer', 'The Light Porter'}",M,intermediate
+1,Bounderby,['Bounderby'],X,minor
+2,Cecilia Jupe,"{'Sissy', 'Thethilia', 'Sissy Jupe', 'Cecilia', 'Jupe', 'Cecilia Jupe'}",F,major
+3,Childers,['Childers'],X,minor
+4,Fact,['Fact'],X,minor
+5,Harthouse,['Harthouse'],X,minor
+6,Heaven,['Heaven'],X,minor
+7,Mr. James Harthouse,"{'Mr. Harthouse', 'Jem', 'Mr. James Harthouse', 'The Stranger', 'James Harthouse'}",M,major
+8,Jane,{'Jane'},F,minor
+9,Josephine Sleary,"{'Josephine Sleary', 'Josephine'}",F,minor
+10,Josiah Bounderby,"{'Josiah Bounderby', 'The Third Gentleman', 'Josiah', 'The Gentleman', 'Mr. Bounderby'}",M,major
+11,Lady Scadgers,['Lady Scadgers'],F,minor
+12,Louisa Bounderby,"{'Loo Bounderby', 'Loo', 'Miss Louisa', 'Louisa', 'Louisa Bounderby', 'Mrs. Bounderby', 'Louisa Gadgrind'}",F,major
+13,Mapschoakumchild,['Mapschoakumchild'],X,minor
+14,Master Kidderminster,"{'Cupid', 'Master Kidderminster'}",M,minor
+15,Merrylegs,['Merrylegs'],X,minor
+16,Mr. E. W. B. Childers,"{'Mr. Childers', 'Mr. E. W. B. Childers'}",M,intermediate
+17,Thomas Gradgrind,"{'George', 'Thomas', 'Thomas Gradgrind', 'Gradgrind', 'Mr. Gradgrind', 'Tom Gradgrind'}",M,major
+18,Mr. M'choakumchild,"{""Mr. M'choakumchild""}",M,minor
+19,Mr. Sleary,"{'Sleary', 'Mr. Sleary'}",M,intermediate
+20,Mr. Tom,['Mr. Tom'],M,minor
+21,Mrs. Blackpool,{'Mrs. Blackpool'},F,minor
+22,Mrs. Gradgrind,{'Mrs. Gradgrind'},F,intermediate
+23,The Old Woman,"{'The Old Woman', 'Mrs. Pegler'}",F,intermediate
+24,Mrs. Sparsit,{'Mrs. Sparsit'},F,major
+25,Nickits,['Nickits'],X,minor
+26,Rachel Gradgrind,"{'Rachael', 'Rachel Gradgrind', 'Rachel'}",F,intermediate
+27,Signor Jupe,['Signor Jupe'],X,minor
+28,Slackbridge,{'Slackbridge'},M,minor
+29,Stephen Blackpool,"{'Stephen Blackpool', 'Stephen'}",M,major
+30,The Chairman,{'The Chairman'},M,minor
+31,The Clown,{'The Clown'},M,minor
+32,The Schoolmaster,['The Schoolmaster'],X,minor
+33,The Waiter,{'The Waiter'},M,minor
+34,The Whelp,['The Whelp'],X,minor
+35,Young Thomas,"{'Tom', 'Young Tom', 'Young Thomas'}",M,major
+36,_group,{'_group'},X,minor
+37,_unknowable,{'_unknowable'},X,minor

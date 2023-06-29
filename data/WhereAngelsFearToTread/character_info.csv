@@ -1,0 +1,19 @@
+Character ID,Main Name,Aliases,Gender,Category
+0,Caroline Abbott,"{'Miss Abbott', 'Miss Caroline Abbott', 'Abbott', 'Caroline Abbott', 'Caroline'}",F,major
+1,Harriet,{'Harriet'},F,major
+2,Irma,{'Irma'},F,minor
+3,Lilia,"{'Lilia', 'Mrs. Charles'}",F,intermediate
+4,Little Girl,{'Little Girl'},F,minor
+5,Mr. Abbott,{'Mr. Abbott'},M,minor
+6,Mr. Herriton,"{'Mr. Herriton', 'Philip'}",M,major
+7,Mr. Kingcroft,{'Mr. Kingcroft'},M,minor
+8,Mrs. Herriton,"{'Grandmother', 'Mrs. Herriton', 'Granny'}",F,intermediate
+9,Mrs. Theobald,{'Mrs. Theobald'},F,minor
+10,Perfetta,{'Perfetta'},F,minor
+11,Signor Carella,"{'Carella', 'Signor Carella', 'Gino'}",M,major
+12,Spiridione,"{'Spiridione Tesi', 'Spiridione'}",M,intermediate
+13,The Dogana Men,"{'The Dogana Men', 'The Dogana', 'The Dogana Man'}",M,minor
+14,The Driver,{'The Driver'},M,minor
+15,The Landlady,{'The Landlady'},F,minor
+16,_group,{'_group'},X,minor
+17,_unknowable,{'_unknowable'},X,minor

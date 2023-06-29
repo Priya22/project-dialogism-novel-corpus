@@ -1,23 +1,23 @@
-"Character ID","Main Name","Aliases"
-"0","Adele Ratignolle","['Adele', 'Adele Ratignolle', 'Madame Ratignolle', 'Ratignolle']"
-"1","Arobin","['Arobin', 'Alcee Arobin', 'Alcee']"
-"2","Doctor Mandelet","['The Doctor', 'Doctor Mandelet', 'Doctor']"
-"3","Edna","['Mrs. Pontellier', 'Edna', 'Edna Pontellier']"
-"4","Josephine","['Josephine', 'The Nurse']"
-"5","Mr. Pontellier","['Leonce Pontellier', 'Leonce', 'Mr. Pontellier', 'Pontellier']"
-"6","Madame Lebrun","['Aline', 'Madame Lebrun', 'Aline Lebrun']"
-"7","Mademoiselle Reisz","['Mademoiselle Reisz']"
-"8","Maid","['A Maid', 'Maid']"
-"9","Mariequita","['Mariequita']"
-"10","Miss Mayblunt","['Miss Mayblunt']"
-"11","Monsieur Farival","['Monsieur Farival']"
-"12","Mr. Merriman","['Mr. Merriman']"
-"13","Mrs. Highcamp","['Mrs. Highcamp']"
-"14","Mrs. Merriman","['Mrs. Merriman']"
-"15","Robert","['Robert', 'Robert Lebrun', 'Lebrun']"
-"16","The Colonel","['The Colonel']"
-"17","Valmonde","['Madame', 'Valmonde']"
-"18","Victor","['Victor', 'Victor Lebrun']"
-"19","_group","['_group']"
-"20","_unknowable","['_unknowable']"
-"21","Highcamp","['Highcamp']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Madame Ratignolle,"{'Madame Ratignolle', 'Adele Ratignolle', 'Ratignolle', 'Adele'}",F,intermediate
+1,Alcee Arobin,"{'Alcee', 'Arobin', 'Alcee Arobin'}",M,intermediate
+2,Doctor Mandelet,"{'Doctor', 'Doctor Mandelet', 'The Doctor'}",M,intermediate
+3,Edna Pontellier,"{'Edna Pontellier', 'Mrs. Pontellier', 'Edna'}",F,major
+4,Josephine,"{'Josephine', 'The Nurse'}",F,minor
+5,Leonce Pontellier,"{'Leonce', 'Mr. Pontellier', 'Leonce Pontellier', 'Pontellier'}",M,intermediate
+6,Madame Lebrun,"{'Madame Lebrun', 'Aline', 'Aline Lebrun'}",F,minor
+7,Mademoiselle Reisz,{'Mademoiselle Reisz'},F,intermediate
+8,A Maid,"{'Maid', 'A Maid'}",F,minor
+9,Mariequita,{'Mariequita'},F,minor
+10,Miss Mayblunt,{'Miss Mayblunt'},F,minor
+11,Monsieur Farival,{'Monsieur Farival'},M,minor
+12,Mr. Merriman,{'Mr. Merriman'},M,minor
+13,Mrs. Highcamp,{'Mrs. Highcamp'},F,minor
+14,Mrs. Merriman,{'Mrs. Merriman'},F,minor
+15,Robert Lebrun,"{'Robert Lebrun', 'Lebrun', 'Robert'}",M,major
+16,The Colonel,{'The Colonel'},M,minor
+17,Valmonde,['Valmonde'],X,minor
+18,Victor Lebrun,"{'Victor', 'Victor Lebrun'}",M,minor
+19,_group,['_group'],X,minor
+20,_unknowable,['_unknowable'],X,minor
+21,Highcamp,['Highcamp'],X,minor

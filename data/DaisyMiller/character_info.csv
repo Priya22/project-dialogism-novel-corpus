@@ -1,11 +1,11 @@
-"Character ID","Main Name","Aliases"
-"0","Daisy","['Daisy Miller', 'Miss Daisy', 'Annie Miller', 'Miss Daisy Miller', 'Annie P. Miller', 'Miss Miller', 'Daisy']"
-"1","Eugenio","['Eugenio']"
-"2","Giovanelli","['Giovanelli', 'Mr. Giovanelli']"
-"3","Mrs. Costello","['Mrs. Costello']"
-"4","Mrs. Miller","['Mrs. Miller']"
-"5","Mrs. Walker","['Mrs. Walker']"
-"6","Randolph","['The Child', 'Randolph', 'Randolph Miller', 'Randolph C. Miller', 'Mr. Randolph']"
-"7","Servant","['The Servant', 'Servant']"
-"8","Winterbourne","['Frederick', 'Winterbourne', 'Mr. Winterbourne']"
-"9","A Friend","[""Winterbourne's Friend"", 'A Friend']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Daisy Miller,"{'Miss Miller', 'Daisy Miller', 'Daisy', 'Annie P. Miller', 'Miss Daisy Miller', 'Miss Daisy', 'Annie Miller'}",F,major
+1,Eugenio,{'Eugenio'},M,minor
+2,Mr. Giovanelli,"{'Mr. Giovanelli', 'Giovanelli'}",M,minor
+3,Mrs. Costello,{'Mrs. Costello'},F,intermediate
+4,Mrs. Miller,{'Mrs. Miller'},F,intermediate
+5,Mrs. Walker,{'Mrs. Walker'},F,intermediate
+6,Randolph,"{'Randolph C. Miller', 'Randolph', 'Randolph Miller', 'The Child', 'Mr. Randolph'}",M,intermediate
+7,The Servant,"{'The Servant', 'Servant'}",U,minor
+8,Winterbourne,"{'Mr. Winterbourne', 'Winterbourne', 'Frederick'}",M,major
+9,Winterbourne's Friend,"{'A Friend', ""Winterbourne's Friend""}",U,minor

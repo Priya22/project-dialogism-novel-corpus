@@ -1,32 +1,32 @@
-"Character ID","Main Name","Aliases"
-"0","A Lady In The Group","['A Lady In The Group']"
-"1","A Man","['A Man']"
-"2","An Old Woman","['An Old Woman']"
-"3","Bunting","['Mr. Bunting', 'Bunting', 'The Vicar']"
-"4","Adye","['Adye', 'Colonel Adye']"
-"5","Cuss","['Mr. Cuss', 'Cuss']"
-"6","Fearenside","['Fearenside']"
-"7","Hall","['George', 'Hall', 'Mr. Hall']"
-"8","Huxter","['Mr. Huxter', 'Huxter']"
-"9","Jaffers","['Jaffers', 'Mr. Bobby Jaffers']"
-"10","Kemp","['Dr. Kemp', 'Kemp', 'The Doctor']"
-"11","Mr. Heelas","['Mr. Heelas']"
-"12","Marvel","['Marvel', 'The Landlord', 'Mr. Marvel', 'Mr. Thomas Marvel']"
-"13","Mr. Wadgers","['Mr. Wadgers', 'Mr. Sandy Wadgers', 'Sandy Wadgers']"
-"14","Mrs. Bunting","['Mrs. Bunting']"
-"15","Mrs. Hall","['Janny', 'Mrs. Hall']"
-"16","Silas Durgan","['Silas Durgan']"
-"17","Teddy Henfrey","['Mr. Teddy Henfrey', 'Mr. Henfrey', 'Henfrey', 'Teddy Henfrey', 'Teddy', 'Mr. Teddy']"
-"18","The Barman","['The Barman']"
-"19","The Big Navvy","['The Big Navvy']"
-"20","The Cabman","['The Cabman', 'The First Cabman', 'The Anaemic Cabman']"
-"21","The Constable","['The Constable']"
-"22","The First Policeman","['The First Policeman']"
-"23","The Housemaid","['The Housemaid']"
-"24","The Unseen","['Stranger', 'The Stranger', 'The Invisible Man', 'The Unseen', 'The Visitor', 'Griffin', 'The Voice']"
-"25","A Black-bearded Man","['A Black-bearded Man', 'The Man With The Black Beard']"
-"26","The Mariner","['The Mariner']"
-"27","The Policeman","['The Policeman']"
-"28","The Second Policeman","['The Second Policeman', 'One Of The Policemen', 'The Man On The Floor']"
-"29","_group","['_group']"
-"30","_unknowable","['_unknowable']"
+Character ID,Main Name,Aliases,Gender,Category
+0,A Lady In The Group,{'A Lady In The Group'},F,minor
+1,A Man,{'A Man'},M,minor
+2,An Old Woman,{'An Old Woman'},F,minor
+3,Bunting,"{'The Vicar', 'Bunting', 'Mr. Bunting'}",M,intermediate
+4,Colonel Adye,"{'Adye', 'Colonel Adye'}",M,intermediate
+5,Cuss,"{'Cuss', 'Mr. Cuss'}",M,intermediate
+6,Fearenside,{'Fearenside'},M,minor
+7,Mr. Hall,"{'George', 'Mr. Hall', 'Hall'}",M,intermediate
+8,Huxter,"{'Mr. Huxter', 'Huxter'}",M,minor
+9,Jaffers,"{'Jaffers', 'Mr. Bobby Jaffers'}",M,minor
+10,The Doctor,"{'Kemp', 'Dr. Kemp', 'The Doctor'}",M,major
+11,Mr. Heelas,{'Mr. Heelas'},M,minor
+12,Mr. Thomas Marvel,"{'Marvel', 'The Landlord', 'Mr. Marvel', 'Mr. Thomas Marvel'}",M,major
+13,Mr. Sandy Wadgers,"{'Mr. Wadgers', 'Sandy Wadgers', 'Mr. Sandy Wadgers'}",M,minor
+14,Mrs. Bunting,{'Mrs. Bunting'},F,minor
+15,Mrs. Hall,"{'Mrs. Hall', 'Janny'}",F,intermediate
+16,Silas Durgan,{'Silas Durgan'},U,minor
+17,Mr. Teddy Henfrey,"{'Mr. Teddy', 'Mr. Teddy Henfrey', 'Henfrey', 'Teddy', 'Teddy Henfrey', 'Mr. Henfrey'}",M,intermediate
+18,The Barman,{'The Barman'},M,minor
+19,The Big Navvy,{'The Big Navvy'},M,minor
+20,The Cabman,"{'The Cabman', 'The First Cabman', 'The Anaemic Cabman'}",M,minor
+21,The Constable,{'The Constable'},M,minor
+22,The First Policeman,{'The First Policeman'},M,minor
+23,The Housemaid,{'The Housemaid'},F,minor
+24,The Invisible Man,"{'The Voice', 'The Stranger', 'Griffin', 'The Visitor', 'Stranger', 'The Invisible Man', 'The Unseen'}",M,major
+25,The Man With The Black Beard,"{'A Black-bearded Man', 'The Man With The Black Beard'}",M,minor
+26,The Mariner,{'The Mariner'},M,intermediate
+27,The Policeman,{'The Policeman'},M,minor
+28,The Second Policeman,"{'The Man On The Floor', 'One Of The Policemen', 'The Second Policeman'}",M,minor
+29,_group,['_group'],X,minor
+30,_unknowable,['_unknowable'],X,minor

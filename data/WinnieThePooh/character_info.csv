@@ -1,0 +1,14 @@
+Character ID,Main Name,Aliases,Gender,Category
+0,Baby Roo,"{'Roo', 'Baby Roo'}",M,minor
+1,Christopher Robin - External,{'Christopher Robin - External'},M,intermediate
+2,Christopher Robin - Story,{'Christopher Robin - Story'},M,major
+3,Eeyore,{'Eeyore'},M,major
+4,Heffalump,{'Heffalump'},M,minor
+5,Kanga,{'Kanga'},F,intermediate
+6,Owl,{'Owl'},M,intermediate
+7,Piglet,"{'Piglet', 'Little Piglet', 'Henry Pootel'}",M,major
+8,Rabbit,{'Rabbit'},M,intermediate
+9,Winnie-the-pooh,"{'Pooh', 'Edward Bear', 'Winnie-the-pooh'}",M,major
+10,_group,{'_group'},X,minor
+11,_narr,"{'Narrator', '_narr'}",X,intermediate
+12,_unknowable,{'_unknowable'},X,minor

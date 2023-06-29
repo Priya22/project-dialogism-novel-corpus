@@ -1,68 +1,64 @@
-"Character ID","Main Name","Aliases"
-"0","Cecil","['Mr. Vyse', 'Cecil']"
-"1","Freddy","['Honeychurch', 'Freddy', ""Lucy'S Brother""]"
-"2","George Emerson","['Emerson', 'George', 'George Emerson']"
-"3","Lennie","['Lennie', 'The Garden-Child']"
-"4","Lucy","['Lucy', 'Lucia', 'Miss Honeychurch']"
-"5","Beebe","['Beebe', 'Minnie', 'Minnie Beebe']"
-"6","Charlotte","['Miss Bartlett', 'Charlotte']"
-"7","Miss Alan","['Miss Catharine Alan', 'Miss Catherine Alan', 'Miss Alan', 'Miss Catharine', 'Miss Catherine']"
-"8","Eleanor","['Joseph Emery Prank', 'The Clever Lady', 'Eleanor', 'Clever Lady', 'Miss Lavish']"
-"9","Miss Teresa","['Miss Teresa', 'Miss Teresa Alan']"
-"10","Mr. Beebe","['Arthur', 'Mr. Beebe']"
-"11","Mr. Eager","['Mr. Eager']"
-"12","Mr. Emerson","['Mr. Emerson', 'Old Mr. Emerson', 'The Old Mr. Emerson']"
-"13","Mr. Floyd","['Mr. Floyd']"
-"14","Mr. Honeychurch","['Mr. Honeychurch']"
-"15","Mrs. Beebe","['Mrs. Beebe']"
-"16","Mrs. Butterworth","['Mrs. Butterworth']"
-"17","Mrs. Emerson","['Mrs. Emerson']"
-"18","Mrs. Honeychurch","['Mrs. Honeychurch', 'Marian']"
-"19","Mrs. Vyse","['Vyse', 'Mrs. Vyse']"
-"20","The Girl","['The Girl', 'Persephone']"
-"21","Phaethon","['Phaethon']"
-"22","Powell","['Powell']"
-"23","Sir Harry Otway","['Sir Harry', 'Sir Harry Otway']"
-"24","The Cabman","['The Cabman']"
-"25","The Maid","['The Maid']"
-"26","Alan","['Alan']"
-"27","Beethoven","['Beethoven']"
-"28","Fate","['Fate']"
-"29","Giotto","['Giotto']"
-"30","Leonardo","['Leonardo']"
-"31","Nature","['Nature']"
-"32","Schumann","['Schumann']"
-"33","The Arno","['The Arno']"
-"34","The Chaplain","['Mr. Eager', 'The Chaplain', 'Rev. Cuthbert Eager']"
-"35","The Clergyman","['The Clergyman']"
-"36","The Hostess","['The Hostess']"
-"37","The Lady","['The Lady']"
-"38","The Son","['The Son']"
-"39","Anne","['Anne']"
-"40","Euphemia","['Euphemia']"
-"41","Lady Otway","['Lady Otway']"
-"42","Mary","['Mary']"
-"43","Miss Catherine","['Miss Catherine']"
-"44","Mr. Flack","['Mr. Flack']"
-"45","Mrs. Flack","['Mrs. Flack', 'Miss Flack']"
-"46","Mrs. Eager","['Mrs. Eager']"
-"47","Saturn","['Saturn']"
-"48","Phaethon","['The Driver', 'Phaethon']"
-"49","Contessa Baroncelli","['Contessa Baroncelli']"
-"50","Italian Lady","['Italian Lady']"
-"51","Lady Helen Laverstock","['Lady Helen Laverstock']"
-"52","Miss Pole","['Miss Pole']"
-"53","Mr Eager","['Mr Eager']"
-"54","Mr. Gladstone","['Mr. Gladstone']"
-"55","Mrs. Grundy","['Mrs. Grundy']"
-"56","The Signora","['Signora Bertolini', 'The Signora']"
-"57","The Bishop","['The Bishop']"
-"58","The Chambermaid","['The Chambermaid']"
-"59","The Child","['The Child']"
-"60","Little Old Lady","['The Little Old Lady', 'A Little Old Lady', 'The Little Old Lady (Unknown)', 'Little Old Lady', 'Little Old Lady (Unknown)']"
-"61","The Vicar","['The Vicar']"
-"62","Vendor Of Photographs","['Vendor Of Photographs']"
-"63","Vicar Of St. Peter'S","[""Vicar Of St. Peter'S""]"
-"64","He-Baby","['He-Baby']"
-"65","Lucy'S Mother","[""Lucy'S Mother""]"
-"66","Ms. Teresa","['Ms. Teresa']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Mr. Vyse,"{'Cecil', 'Mr. Vyse'}",M,intermediate
+1,Freddy,"{'Freddy', ""Lucy'S Brother"", 'Honeychurch'}",M,intermediate
+2,George Emerson,"{'George', 'George Emerson', 'Emerson'}",M,intermediate
+3,Lennie,['Lennie'],X,minor
+4,Miss Honeychurch,"{'Lucy', 'Lucia', 'Miss Honeychurch'}",F,major
+5,Minnie Beebe,"{'Beebe', 'Minnie', 'Minnie Beebe'}",F,minor
+6,Miss Bartlett,"{'Miss Bartlett', 'Charlotte'}",F,major
+7,Miss Catherine Alan,"{'Miss Catherine Alan', 'Miss Catharine Alan', 'Miss Catherine', 'Miss Catharine', 'Miss Alan'}",F,minor
+8,Miss Lavish,"{'The Clever Lady', 'Miss Lavish', 'Joseph Emery Prank', 'Eleanor', 'Clever Lady'}",F,intermediate
+9,Miss Teresa,"{'Miss Teresa', 'Miss Teresa Alan'}",F,minor
+10,Mr. Beebe,"{'Arthur', 'Mr. Beebe'}",M,major
+11,Mr. Emerson,"{'Mr. Emerson', 'Old Mr. Emerson', 'The Old Mr. Emerson'}",M,intermediate
+12,Mr. Floyd,['Mr. Floyd'],M,minor
+13,Mr. Honeychurch,['Mr. Honeychurch'],M,minor
+14,Mrs. Beebe,['Mrs. Beebe'],F,minor
+15,Mrs. Butterworth,['Mrs. Butterworth'],F,minor
+16,Mrs. Emerson,['Mrs. Emerson'],F,minor
+17,Mrs. Honeychurch,"{'Mrs. Honeychurch', 'Marian'}",F,major
+18,Mrs. Vyse,"{'Mrs. Vyse', 'Vyse'}",F,minor
+19,Persephone,"{'The Girl', 'Persephone'}",F,minor
+20,Powell,{'Powell'},M,minor
+21,Sir Harry Otway,"{'Sir Harry', 'Sir Harry Otway'}",M,minor
+22,The Cabman,{'The Cabman'},M,minor
+23,The Maid,{'The Maid'},F,minor
+24,Alan,['Alan'],X,minor
+25,Beethoven,['Beethoven'],X,minor
+26,Fate,['Fate'],X,minor
+27,Giotto,['Giotto'],X,minor
+28,Leonardo,['Leonardo'],X,minor
+29,Nature,['Nature'],X,minor
+30,Schumann,['Schumann'],X,minor
+31,The Arno,['The Arno'],X,minor
+32,The Clergyman,['The Clergyman'],X,minor
+33,The Hostess,['The Hostess'],X,minor
+34,The Lady,['The Lady'],F,minor
+35,The Son,['The Son'],M,minor
+36,Anne,['Anne'],X,minor
+37,Euphemia,['Euphemia'],X,minor
+38,Lady Otway,['Lady Otway'],F,minor
+39,Mary,['Mary'],X,minor
+40,Mr. Flack,{'Mr. Flack'},M,minor
+41,Miss Flack,['Miss Flack'],F,minor
+42,Mrs. Eager,['Mrs. Eager'],F,minor
+43,Saturn,['Saturn'],X,minor
+44,The Driver,"{'The Driver', 'Phaethon'}",M,minor
+45,Contessa Baroncelli,['Contessa Baroncelli'],X,minor
+46,Italian Lady,{'Italian Lady'},F,minor
+47,Lady Helen Laverstock,['Lady Helen Laverstock'],F,minor
+48,Miss Pole,['Miss Pole'],F,minor
+49,Rev. Cuthbert Eager,"{'Mr Eager', 'Rev. Cuthbert Eager', 'The Chaplain', 'Mr. Eager'}",M,intermediate
+50,Mr. Gladstone,['Mr. Gladstone'],M,minor
+51,Mrs. Grundy,['Mrs. Grundy'],F,minor
+52,Signora Bertolini,['Signora Bertolini'],X,minor
+53,The Bishop,['The Bishop'],X,minor
+54,The Chambermaid,{'The Chambermaid'},F,minor
+55,The Child,['The Child'],X,minor
+56,The Little Old Lady,"{'The Little Old Lady', 'A Little Old Lady', 'Little Old Lady (Unknown)', 'Little Old Lady', 'The Little Old Lady (Unknown)'}",F,minor
+57,The Vicar,{'The Vicar'},M,minor
+58,Vendor Of Photographs,['Vendor Of Photographs'],X,minor
+59,Vicar Of St. Peter'S,"[""Vicar Of St. Peter'S""]",X,minor
+60,He-Baby,['He-Baby'],X,minor
+61,Lucy'S Mother,"[""Lucy'S Mother""]",F,minor
+62,Ms. Teresa,['Ms. Teresa'],F,minor

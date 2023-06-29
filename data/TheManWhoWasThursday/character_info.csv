@@ -1,32 +1,31 @@
-"Character ID","Main Name","Aliases"
-"0","A Large Old Man","['A Large Old Man']"
-"1","A Man In Plain Clothes","['A Man In Plain Clothes']"
-"2","A Tall Man","['A Tall Man']"
-"3","An Official","['An Official']"
-"4","Another Man In The Same Uniform","['Another Man In The Same Uniform']"
-"5","Colonel Ducroix","['The Gentleman With The Red Rosette', 'The Gentleman', 'Colonel Ducroix', 'The Colonel']"
-"6","Buttons","['Comrade Buttons', 'Mr. Buttons', 'Buttons', 'One Little Man']"
-"7","Bull","['Bull', 'Dr. Bull', 'Saturday', 'The Doctor']"
-"8","Dr. Renard","['Renard', 'Dr. Renard']"
-"9","Gabriel Syme","['Gabriel Syme', 'Comrade Syme', 'Syme', 'Mr. Syme']"
-"10","Gogol","['Tuesday', 'Gogol']"
-"11","His Valet","['His Valet']"
-"12","The Marquis","['Wednesday', 'Inspector Ratcliffe', 'The Marquis']"
-"13","Gregory","['Comrade Gregory', 'Mr. Lucian Gregory', 'Gregory']"
-"14","Mr. Witherspoon","['Witherspoon', 'Mr. Witherspoon', 'Comrade Witherspoon']"
-"15","One Wondering Labourer","['One Wondering Labourer']"
-"16","The Professor","['Friday', 'Professor', 'Professor De Worms', 'Worms', 'The Professor']"
-"17","Rosamond","['Rosamond']"
-"18","The Attendant","['The Attendant']"
-"19","The President","['The Invisible Chief', 'The President', 'President Sunday', 'Sunday', 'The Unknown']"
-"20","The Keeper","['The Keeper']"
-"21","The Long, Lean Man With The American Beard","['The Long, Lean Man With The American Beard']"
-"22","The Policeman","['A Policeman', 'The Policeman']"
-"23","The President","['The President']"
-"24","The Second Gentleman","['The Second Gentleman']"
-"25","The Secretary","['Monday', 'The Secretary']"
-"26","The Waiter","['The Waiter']"
-"27","_group","['_group']"
-"28","_unknowable","['_unknowable']"
-"29","The Pessimist","['The Pessimist']"
-"30","The Stranger","['The Stranger']"
+Character ID,Main Name,Aliases,Gender,Category
+0,A Large Old Man,{'A Large Old Man'},M,minor
+1,A Man In Plain Clothes,{'A Man In Plain Clothes'},M,minor
+2,A Tall Man,{'A Tall Man'},M,minor
+3,An Official,{'An Official'},M,minor
+4,Another Man In The Same Uniform,{'Another Man In The Same Uniform'},M,minor
+5,Colonel Ducroix,"{'The Gentleman', 'Colonel Ducroix', 'The Gentleman With The Red Rosette', 'The Colonel'}",M,intermediate
+6,Comrade Buttons,"{'Comrade Buttons', 'Mr. Buttons', 'One Little Man', 'Buttons'}",M,minor
+7,Dr. Bull,"{'Bull', 'Saturday', 'Dr. Bull', 'The Doctor'}",M,intermediate
+8,Dr. Renard,"{'Renard', 'Dr. Renard'}",M,minor
+9,Gabriel Syme,"{'Comrade Syme', 'Syme', 'Gabriel Syme', 'Mr. Syme'}",M,major
+10,Gogol,"{'Tuesday', 'Gogol'}",M,minor
+11,His Valet,{'His Valet'},M,minor
+12,Inspector Ratcliffe,"{'Wednesday', 'The Marquis', 'Inspector Ratcliffe'}",M,intermediate
+13,Mr. Lucian Gregory,"{'Gregory', 'Comrade Gregory', 'Mr. Lucian Gregory'}",M,intermediate
+14,Comrade Witherspoon,"{'Comrade Witherspoon', 'Mr. Witherspoon', 'Witherspoon'}",M,minor
+15,One Wondering Labourer,{'One Wondering Labourer'},M,minor
+16,Professor De Worms,"{'Worms', 'Professor', 'Friday', 'Professor De Worms', 'The Professor'}",M,major
+17,Rosamond,{'Rosamond'},F,minor
+18,The Attendant,{'The Attendant'},M,minor
+19,The Invisible Chief,"{'President Sunday', 'The Invisible Chief', 'The Unknown', 'Sunday', 'The President'}",M,intermediate
+20,The Keeper,{'The Keeper'},M,minor
+21,"The Long, Lean Man With The American Beard","{'The Long, Lean Man With The American Beard'}",M,minor
+22,The Policeman,"{'A Policeman', 'The Policeman'}",M,intermediate
+23,The Second Gentleman,{'The Second Gentleman'},M,minor
+24,The Secretary,"{'The Secretary', 'Monday'}",M,intermediate
+25,The Waiter,{'The Waiter'},M,minor
+26,_group,['_group'],X,minor
+27,_unknowable,['_unknowable'],X,minor
+28,The Pessimist,['The Pessimist'],X,minor
+29,The Stranger,['The Stranger'],X,minor

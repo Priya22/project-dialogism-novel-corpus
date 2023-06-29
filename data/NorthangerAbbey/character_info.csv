@@ -1,21 +1,21 @@
-"Character ID","Main Name","Aliases"
-"0","Catherine Morland","['Catherine', 'Catherine Morland', 'Miss Morland']"
-"1","Eleanor Tilney","['Miss Tilney', 'Eleanor', 'Eleanor Tilney']"
-"2","Captain Tilney","['Captain Frederick Tilney', 'Frederick', 'Frederick Tilney ', 'Captain Tilney']"
-"3","General Tilney","['General Tilney']"
-"4","Henry Tilney","['Henry Tilney', 'Henry', 'Mr. Tilney', 'Tilney']"
-"5","Isabella Thorpe","['Belle', 'Miss Thorpe', 'Isabella Thorpe', 'Isabella']"
-"6","James Morland","['Morland', 'James Morland', 'James']"
-"7","John Thorpe","['John', 'John Thorpe', 'Thorpe']"
-"8","Maria","['Maria', 'Miss Maria', 'Maria Thorpe']"
-"9","Anne","['Miss Anne', 'Anne Thorpe', 'Anne']"
-"10","Mr. Allen","['Mr. Allen']"
-"11","Mr. Morland","['Mr. Morland']"
-"12","Mr. Thorpe","['Mr. Thorpe']"
-"13","Mrs. Allen","['Mrs. Allen']"
-"14","Mrs. Hughes","['Mrs. Hughes']"
-"15","Mrs. Morland","['Mrs. Morland']"
-"16","Mrs. Thorpe","['Mrs. Thorpe']"
-"17","Sarah","['Sarah']"
-"18","_group","['_group']"
-"19","_unknowable","['_unknowable', 'Unknowable']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Catherine Morland,"{'Miss Morland', 'Catherine Morland', 'Catherine'}",F,major
+1,Eleanor Tilney,"{'Eleanor Tilney', 'Eleanor', 'Miss Tilney'}",F,intermediate
+2,Frederick Tilney,"{'Captain Frederick Tilney', 'Frederick', 'Frederick Tilney', 'Captain Tilney'}",F,minor
+3,General Tilney,{'General Tilney'},M,minor
+4,Henry Tilney,"{'Henry Tilney', 'Tilney', 'Henry', 'Mr. Tilney'}",M,major
+5,Isabella Thorpe,"{'Belle', 'Miss Thorpe', 'Isabella', 'Isabella Thorpe'}",F,major
+6,James Morland,"{'James Morland', 'James', 'Morland'}",M,minor
+7,John Thorpe,"{'John Thorpe', 'Thorpe', 'John'}",M,intermediate
+8,Maria Thorpe,"{'Miss Maria', 'Maria', 'Maria Thorpe'}",F,minor
+9,Miss Anne,"{'Anne', 'Anne Thorpe', 'Miss Anne'}",F,minor
+10,Mr. Allen,{'Mr. Allen'},M,minor
+11,Mr. Morland,['Mr. Morland'],M,minor
+12,Mr. Thorpe,['Mr. Thorpe'],M,minor
+13,Mrs. Allen,{'Mrs. Allen'},F,intermediate
+14,Mrs. Hughes,{'Mrs. Hughes'},F,minor
+15,Mrs. Morland,{'Mrs. Morland'},F,minor
+16,Mrs. Thorpe,{'Mrs. Thorpe'},F,minor
+17,Sarah,{'Sarah'},F,minor
+18,_group,['_group'],X,minor
+19,_unknowable,['_unknowable'],X,minor

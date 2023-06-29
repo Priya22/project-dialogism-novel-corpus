@@ -1,0 +1,38 @@
+Character ID,Main Name,Aliases,Gender,Category
+0,Baddeley,"{'Baddeley', 'Butler'}",M,minor
+1,Dr. Grant,{'Dr. Grant'},M,minor
+2,Edmund,"{'Edmund Bertram', 'Edmund'}",M,major
+3,Fanny Price,"{'Fanny', 'Miss Price', 'Price', 'Fanny Price'}",F,major
+4,Henry Crawford,"{'Frederick', 'Henry Crawford', 'Crawford', 'Henry'}",M,major
+5,Julia Bertram,"{'Julia', 'Julia Bertram'}",F,intermediate
+6,Lady Bertram,{'Lady Bertram'},F,intermediate
+7,Maria Bertram,"{'Agatha', 'Maria', 'Maria Bertram'}",F,intermediate
+8,Mary Crawford,"{'Mary Crawford', 'Miss Crawford', 'Mary'}",F,major
+9,Mr. Price,{'Mr. Price'},M,minor
+10,Mr. Rushworth,"{'Rushworth', 'James', 'Mr. Rushworth'}",M,intermediate
+11,Mr. Yates,"{'John Yates', 'Yates', 'Mr. Yates'}",M,minor
+12,Mrs. Grant,{'Mrs. Grant'},F,intermediate
+13,Mrs. Norris,{'Mrs. Norris'},F,intermediate
+14,Mrs. Price,{'Mrs. Price'},F,minor
+15,Mrs. Rushworth,{'Mrs. Rushworth'},F,minor
+16,Rebecca,"{'Maidservant', 'Rebecca'}",F,minor
+17,Sam Price,"{'Sam Price', 'Sam'}",M,minor
+18,Sir Thomas,{'Sir Thomas'},M,intermediate
+19,Susan Price,"{'Susan Price', 'Susan'}",F,minor
+20,The Old Coachman,{'The Old Coachman'},M,minor
+21,Tom Bertram,"{'Tom Bertram', 'Tom Bentram'}",M,intermediate
+22,William Price,"{'William Price', 'William'}",M,minor
+23,_group,['_group'],X,minor
+24,_unknowable,{'_unknowable'},X,minor
+25,Admiral Crawford,['Admiral Crawford'],X,minor
+26,Bertram,['Bertram'],X,minor
+27,Betsey Price,['Betsey Price'],X,minor
+28,Count Cassel,['Count Cassel'],M,minor
+29,Miss Bertram,['Miss Bertram'],F,minor
+30,Mr. Crawford,['Mr. Crawford'],M,minor
+31,Mr. Norris,['Mr. Norris'],M,minor
+32,Mrs. Fraser,['Mrs. Fraser'],F,minor
+33,Norris,['Norris'],X,minor
+34,Shakespeare,['Shakespeare'],X,minor
+35,The Thrush,['The Thrush'],X,minor
+36,Vows,['Vows'],X,minor

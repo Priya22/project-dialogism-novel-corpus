@@ -1,36 +1,36 @@
-"Character ID","Main Name","Aliases"
-"0","Admiral","['Admiral Croft', 'The Admiral', 'Admiral']"
-"1","Anne Elliot","['Anne Elliot', 'Miss Anne', 'Miss Anne Elliot', 'Anne']"
-"2","Captain Benwick","['Captain Benwick', 'Benwick']"
-"3","Captain Harville","['Harville', 'Captain Harville']"
-"4","Frederick","['Captain Wentworth', 'Frederick', 'Wentworth', 'Frederick Wentworth']"
-"5","Charles Hayter","['Charles Hayter', 'Hayter']"
-"6","Charles Musgrove","['Charles Musgrove']"
-"7","Colonel Wallis","['Colonel Wallis']"
-"8","Elizabeth","['Elizabeth']"
-"9","Henrietta","['Henrietta Musgrove', 'Henrietta']"
-"10","Kellynch Hall","['Kellynch Hall']"
-"11","Lady Dalrymple","['Dalrymple', 'Lady Dalrymple']"
-"12","Lady Russell","['Lady Russell']"
-"13","Charles","['Charles', 'Little Charles']"
-"14","Walter","['Little Walter', 'Walter']"
-"15","Louisa Musgrove","['Louisa', 'Louisa Musgrove']"
-"16","Mary","['Mary Musgrove', 'Mary']"
-"17","Miss Elliot","['Miss Elliot']"
-"18","Mr Shepherd","['Shepherd', 'John Shepherd', 'Mr Shepherd']"
-"19","Mr. Musgrove","['Mr Musgrove', 'Mr. Musgrove', 'Musgrove']"
-"20","Mrs Clay","['Penelope', 'Mrs Clay']"
-"21","Mrs Musgrove","['Mrs Musgrove']"
-"22","Mrs Smith","['Miss Hamilton', 'Smith', 'Mrs Smith']"
-"23","Mrs Wallis","['Mrs Wallis']"
-"24","Mrs. Harville","['Mrs. Harville']"
-"25","Poor Richard","['Poor Richard']"
-"26","Sir Walter Elliot","['Sir Walter Elliot', 'Sir Walter']"
-"27","Mrs Croft","['Sophia Croft', 'Mrs Croft', 'Sister Of Captian Wentworth']"
-"28","The Inn Keeper","['The Inn Keeper', 'Inn Keeper']"
-"29","Waiter","['The Waiter', 'Waiter']"
-"30","Mr Elliot","['Mr Elliot', 'William', 'William Walter Elliot']"
-"31","_group","['_group']"
-"32","_unknowable","['_unknowable']"
-"33","Admiral Baldwin","['Admiral Baldwin']"
-"34","Mrs Harville","['Mrs Harville']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Admiral Croft,"{'The Admiral', 'Admiral', 'Admiral Croft'}",M,intermediate
+1,Anne Elliot,"{'Anne', 'Miss Anne Elliot', 'Anne Elliot', 'Miss Anne'}",F,major
+2,Captain Benwick,['Captain Benwick'],X,minor
+3,Captain Harville,"{'Harville', 'Captain Harville'}",M,intermediate
+4,Captain Wentworth,"{'Captain Wentworth', 'Frederick', 'Frederick Wentworth', 'Wentworth'}",M,major
+5,Charles Hayter,"{'Hayter', 'Charles Hayter'}",M,minor
+6,Charles Musgrove,{'Charles Musgrove'},M,intermediate
+7,Colonel Wallis,['Colonel Wallis'],X,minor
+8,Elizabeth,{'Elizabeth'},F,minor
+9,Henrietta Musgrove,"{'Henrietta', 'Henrietta Musgrove'}",F,minor
+10,Kellynch Hall,['Kellynch Hall'],X,minor
+11,Lady Dalrymple,"{'Lady Dalrymple', 'Dalrymple'}",F,minor
+12,Lady Russell,{'Lady Russell'},F,minor
+13,Little Charles,['Little Charles'],X,minor
+14,Little Walter,['Little Walter'],X,minor
+15,Louisa Musgrove,"{'Louisa', 'Louisa Musgrove'}",F,minor
+16,Mary Musgrove,"{'Mary Musgrove', 'Mary'}",F,intermediate
+17,Miss Elliot,['Miss Elliot'],F,minor
+18,Mr Shepherd,"{'Mr Shepherd', 'Shepherd', 'John Shepherd'}",M,minor
+19,Mr. Musgrove,['Mr. Musgrove'],M,minor
+20,Mrs Clay,"{'Penelope', 'Mrs Clay'}",F,minor
+21,Mrs Musgrove,{'Mrs Musgrove'},F,intermediate
+22,Mrs Smith,"{'Mrs Smith', 'Miss Hamilton', 'Smith'}",F,intermediate
+23,Mrs Wallis,['Mrs Wallis'],F,minor
+24,Mrs. Harville,['Mrs. Harville'],F,minor
+25,Poor Richard,['Poor Richard'],X,minor
+26,Sir Walter Elliot,"{'Sir Walter Elliot', 'Sir Walter'}",M,intermediate
+27,Sophia Croft,"{'Sister Of Captian Wentworth', 'Mrs Croft', 'Sophia Croft'}",F,minor
+28,The Inn Keeper,['The Inn Keeper'],X,minor
+29,The Waiter,"{'Waiter', 'The Waiter'}",M,minor
+30,William Walter Elliot,"{'William Walter Elliot', 'Mr Elliot', 'William'}",M,minor
+31,_group,['_group'],X,minor
+32,_unknowable,['_unknowable'],X,minor
+33,Admiral Baldwin,['Admiral Baldwin'],X,minor
+34,Mrs Harville,['Mrs Harville'],F,minor

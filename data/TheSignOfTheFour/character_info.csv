@@ -1,36 +1,36 @@
-"Character ID","Main Name","Aliases"
-"0","A Bluff, Genial Inspector","['A Bluff, Genial Inspector', 'That Inspector In The Cab']"
-"1","Abdullah Khan","['Abdullah Khan']"
-"2","Achmet","['Achmet']"
-"3","Athelney Jones","['Mr. Jones', 'Athelney Jones', 'Jones', 'Mr. Athelney Jones']"
-"4","Bartholomew Sholto","['Brother Bartholomew', 'Bartholomew Sholto', 'Bartholomew']"
-"5","Morstan","['Arthur Morstan', 'Captain Morstan', 'Morstan']"
-"6","Dost Akbar","['Dost Akbar']"
-"7","Jack","['Jack']"
-"8","Khitmutgar","['A Hindoo Servant', 'Khitmutgar']"
-"9","Lal Rao","['Lal Rao']"
-"10","Mahomet Singh","['Mahomet Singh']"
-"11","Major Sholto","['Major Sholto']"
-"12","Miss Morstan","['Miss Mary Morstan', 'Mary', 'Miss Morstan', 'Mary Morstan']"
-"13","Mordecai Smith","['Mordecai Smith', 'Mr. Smith']"
-"14","Sherlock Holmes","['Sherlock Holmes', 'An Aged Man', 'Mr. Sherlock Holmes', 'Holmes', 'Sherlock']"
-"15","Mrs. Bernstone","['Mrs. Bernstone']"
-"16","Mrs. Cecil Forrester","['Mrs. Cecil Forrester']"
-"17","Mrs. Hudson","['Mrs. Hudson']"
-"18","Mrs. Smith","['A Stoutish, Red-Faced Woman', 'Mrs. Smith', 'Smith']"
-"19","Thaddeus Sholto","['Mr. Sholto', 'Thaddeus', 'A High Piping Voice', 'Mr. Thaddeus', 'Mr. Thaddeus Sholto', 'Thaddeus Sholto', 'Sholto']"
-"20","Tonga","['Tonga']"
-"21","Watson","['Dr. Watson', 'Watson', 'Narr']"
-"22","Wiggins","['Wiggins']"
-"23","Jonathan Small","['Jonathan Small', 'Wooden-Legged Man']"
-"24","Mrs. Forrester","['Mrs. Forrester']"
-"25","Small","['Small']"
-"26","The Aurora","['The Aurora']"
-"27","Toby","['Toby']"
-"28","Coachman","['Williams', 'Coachman', 'A Small, Dark, Brisk Man', 'Small, Dark, Brisk Man']"
-"29","An Inspector","['Inspector In Uniform', 'An Inspector']"
-"30","Mcmurdo","['The Porter', 'Mcmurdo']"
-"31","Mr. Sherman","['Sherman', 'Mr. Sherman']"
-"32","Weary-Looking Police-Sergeant","['Weary-Looking Police-Sergeant', 'A Weary-Looking Police Sergeant']"
-"33","Major John Sholto","['Major John Sholto']"
-"34","Sahib","['Sahib']"
+Character ID,Main Name,Aliases,Gender,Category
+0,That Inspector In The Cab,"{'A Bluff, Genial Inspector', 'That Inspector In The Cab'}",M,minor
+1,Abdullah Khan,['Abdullah Khan'],X,minor
+2,Achmet,['Achmet'],X,minor
+3,Mr. Athelney Jones,"{'Mr. Jones', 'Jones', 'Mr. Athelney Jones', 'Athelney Jones'}",M,intermediate
+4,Bartholomew Sholto,['Bartholomew Sholto'],X,minor
+5,Captain Morstan,['Captain Morstan'],X,minor
+6,Dost Akbar,['Dost Akbar'],X,minor
+7,Jack,{'Jack'},M,minor
+8,A Hindoo Servant,"{'A Hindoo Servant', 'Khitmutgar'}",M,minor
+9,Lal Rao,['Lal Rao'],X,minor
+10,Mahomet Singh,['Mahomet Singh'],X,minor
+11,Major Sholto,['Major Sholto'],X,minor
+12,Miss Morstan,"{'Mary Morstan', 'Miss Morstan', 'Miss Mary Morstan', 'Mary'}",F,intermediate
+13,Mordecai Smith,['Mordecai Smith'],X,minor
+14,Mr. Sherlock Holmes,"{'An Aged Man', 'Sherlock Holmes', 'Holmes', 'Mr. Sherlock Holmes', 'Sherlock'}",M,major
+15,Mrs. Bernstone,{'Mrs. Bernstone'},F,minor
+16,Mrs. Cecil Forrester,{'Mrs. Cecil Forrester'},F,minor
+17,Mrs. Hudson,{'Mrs. Hudson'},F,minor
+18,Mrs. Smith,"{'Mrs. Smith', 'Smith', 'A Stoutish, Red-Faced Woman'}",F,minor
+19,A High Piping Voice,"{'A High Piping Voice', 'Thaddeus', 'Mr. Sholto', 'Mr. Thaddeus', 'Mr. Thaddeus Sholto', 'Thaddeus Sholto', 'Sholto'}",M,intermediate
+20,Tonga,['Tonga'],X,minor
+21,Dr. Watson,"{'Watson', 'Narr', 'Dr. Watson'}",M,major
+22,Wiggins,{'Wiggins'},M,minor
+23,Wooden-Legged Man,"{'Wooden-Legged Man', 'Jonathan Small'}",M,major
+24,Mrs. Forrester,['Mrs. Forrester'],F,minor
+25,Small,['Small'],X,minor
+26,The Aurora,['The Aurora'],X,minor
+27,Toby,['Toby'],X,minor
+28,"A Small, Dark, Brisk Man","{'Williams', 'A Small, Dark, Brisk Man', 'Small, Dark, Brisk Man', 'Coachman'}",M,minor
+29,Inspector In Uniform,"{'An Inspector', 'Inspector In Uniform'}",M,minor
+30,Mcmurdo,"{'Mcmurdo', 'The Porter'}",M,minor
+31,Mr. Sherman,"{'Sherman', 'Mr. Sherman'}",M,minor
+32,A Weary-Looking Police Sergeant,['A Weary-Looking Police Sergeant'],X,minor
+33,Major John Sholto,['Major John Sholto'],X,minor
+34,Sahib,['Sahib'],X,minor

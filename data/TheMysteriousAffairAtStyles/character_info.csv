@@ -1,31 +1,31 @@
-"Character ID","Main Name","Aliases"
-"0","A Young And Rather Scared Looking Nurse","['A Young And Rather Scared Looking Nurse', 'A Young Nurse']"
-"1","An Aged Rustic","['An Aged Rustic']"
-"2","An Assistant From Parkson's","[""An Assistant From Parkson's""]"
-"3","An Old Woman","['An Old Woman']"
-"4","Annie","['Annie']"
-"5","Dorcas","['Dorcas']"
-"6","Dr. Bauerstein","['Bauerstein', 'Dr. Bauerstein']"
-"7","Evie","['Miss Howard', 'Evelyn Howard', 'Evie']"
-"8","Heavywether","['Sir Ernest', 'Sir Ernest Heavywether', 'Ernest Heavywether', 'Heavywether']"
-"9","Hercule Poirot","['Monsieur Poirot', 'Hercule Poirot', 'Mr. Poirot']"
-"10","Inglethorp","['Inglethorp', 'Alfred', 'Alfred Inglethorp', 'Mr. Inglethorp']"
-"11","Japp","['James Japp', 'Japp']"
-"12","John Cavendish","['Cavendish', 'John', 'John Cavendish']"
-"13","Manning","['Manning']"
-"14","Mary Cavendish","['Mrs. Cavendish', 'Mary Cavendish', 'Mary']"
-"15","Cynthia","['Miss Murdoch', 'Cynthia Murdoch', 'Mademoiselle Cynthia', 'Cynthia']"
-"16","Hastings","['Hastings', 'Mr. Hastings', 'Narr', '_narr']"
-"17","Mr. Lawrence Cavendish","['Lawrence Cavendish', 'Mr. Lawrence Cavendish', 'Lawrence']"
-"18","Mr. Mace","['Mr. Mace', 'Albert Mace']"
-"19","Mr. Philips","['Mr. Philips']"
-"20","Mr. Wells","['Mr. Wells']"
-"21","Mrs. Inglethorp","['Emily', 'Mrs. Inglethorp']"
-"22","Nibs","['Nibs']"
-"23","One Of The Other Belgians","['One Of The Other Belgians']"
-"24","Summerhaye","['Summerhaye']"
-"25","Judge","['The Judge', 'Judge']"
-"26","Wilkins","['Wilkins', 'Dr. Wilkins']"
-"27","_group","['_group']"
-"28","_unknowable","['_unknowable']"
-"29","The Coroner","['The Coroner']"
+Character ID,Main Name,Aliases,Gender,Category
+0,A Young And Rather Scared Looking Nurse,"{'A Young Nurse', 'A Young And Rather Scared Looking Nurse'}",F,minor
+1,An Aged Rustic,{'An Aged Rustic'},M,minor
+2,An Assistant From Parkson's,"{""An Assistant From Parkson's""}",U,minor
+3,An Old Woman,{'An Old Woman'},F,minor
+4,Annie,{'Annie'},F,intermediate
+5,Dorcas,{'Dorcas'},F,intermediate
+6,Dr. Bauerstein,"{'Bauerstein', 'Dr. Bauerstein'}",M,minor
+7,Evelyn Howard,"{'Evie', 'Evelyn Howard', 'Miss Howard'}",F,intermediate
+8,Ernest Heavywether,"{'Heavywether', 'Sir Ernest', 'Sir Ernest Heavywether', 'Ernest Heavywether'}",M,intermediate
+9,Hercule Poirot,"{'Mr. Poirot', 'Hercule Poirot', 'Monsieur Poirot'}",M,major
+10,Alfred Inglethorp,"{'Alfred Inglethorp', 'Alfred', 'Mr. Inglethorp', 'Inglethorp'}",M,intermediate
+11,Japp,"{'James Japp', 'Japp'}",M,intermediate
+12,John Cavendish,"{'Cavendish', 'John Cavendish', 'John'}",M,major
+13,Manning,{'Manning'},M,minor
+14,Mary Cavendish,"{'Mary Cavendish', 'Mrs. Cavendish', 'Mary'}",F,intermediate
+15,Miss Murdoch,"{'Miss Murdoch', 'Mademoiselle Cynthia', 'Cynthia', 'Cynthia Murdoch'}",F,intermediate
+16,Mr. Hastings,"{'Hastings', 'Narr', 'Mr. Hastings', '_narr'}",M,major
+17,Mr. Lawrence Cavendish,"{'Lawrence', 'Mr. Lawrence Cavendish', 'Lawrence Cavendish'}",M,intermediate
+18,Mr. Mace,"{'Albert Mace', 'Mr. Mace'}",M,minor
+19,Mr. Philips,{'Mr. Philips'},M,minor
+20,Mr. Wells,{'Mr. Wells'},M,intermediate
+21,Mrs. Inglethorp,"{'Mrs. Inglethorp', 'Emily'}",F,minor
+22,Nibs,{'Nibs'},U,minor
+23,One Of The Other Belgians,{'One Of The Other Belgians'},M,minor
+24,Summerhaye,{'Summerhaye'},M,minor
+25,The Judge,"{'The Judge', 'Judge'}",M,minor
+26,Dr. Wilkins,"{'Dr. Wilkins', 'Wilkins'}",M,minor
+27,_group,['_group'],X,minor
+28,_unknowable,['_unknowable'],X,minor
+29,The Coroner,['The Coroner'],X,minor

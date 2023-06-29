@@ -1,116 +1,114 @@
-"Character ID","Main Name","Aliases"
-"0","Alice Bell","['Alice Bell']"
-"1","An American","['An American']"
-"2","Anne","['Anne Of Green Gables', 'Anne Shirley', 'Anne']"
-"3","Billy Andrews","['Billy Andrews']"
-"4","Carrie Sloane","['Sloane', 'Carrie Sloane']"
-"5","Charlie Sloane","['Charlie Sloane']"
-"6","Charlotte Gillis","['Charlotte Gillis']"
-"7","Clara Louise Macpherson","['Clara Louise Macpherson']"
-"8","Diana Barry","['Diana Barry', 'Diana']"
-"9","Doctor Spencer","['Doctor Spencer']"
-"10","Emily Clay","['Emily Clay']"
-"11","Emily Gillis","['Emily Gillis']"
-"12","Frank Stockley","['Frank Stockley']"
-"13","Gilbert Blythe","['Gilbert', 'Gilbert Blythe', 'Gil']"
-"14","Jane Andrews","['Jane', 'Jane Andrews']"
-"15","John Blythe","['John Blythe', 'Mr. Blythe']"
-"16","Josie Pye","['Gertie Pye', 'Josie', 'Josie Pye', 'Josephine Barry', 'Aunt Josephine']"
-"17","Julia Bell","['Julia Bell']"
-"18","Laura Spencer","['Laura Spencer']"
-"19","Madame Selitsky","['Madame Selitsky']"
-"20","Malcolm Andres","['Malcolm Andres']"
-"21","Marilla Cuthbert","['Marilla', 'Marilla Cuthbert', 'Miss Cuthbert']"
-"22","Martin","['Martin']"
-"23","Mr. Cuthbert","['Cuthbert', 'Matthew Cuthbert', 'Matthew', 'Mr. Cuthbert']"
-"24","Miss Ames","['Miss Ames']"
-"25","Miss Barry","['Miss Barry', 'Old Miss Barry', 'Miss Josephine Barry', 'Aunt Josephine']"
-"26","Miss Stacy","['Miss Stacy', 'Stacy', 'Miss Muriel Stacy']"
-"27","Moody Spurgeon","['Moody Spurgeon', 'Moody Spurgeon Macpherson']"
-"28","Mr. Abbey","['Mr. Abbey']"
-"29","Mr. Allan","['Mr. Allan']"
-"30","Mr. Andrews","['Mr. Andrews', 'Mr. Harmon Andrews']"
-"31","Mr. Barry","['Mr. Barry']"
-"32","Mr. Bell","['Mr. Bell', 'Mr. William Bell', 'Superintendent Bell', 'Mr. Superintendent Bell']"
-"33","Mr. Gillis","['Mr. Gillis']"
-"34","Mr. Phillips","['Teddy Phillips', 'Mr. Phillips']"
-"35","Mr. Pye","['Mr. Pye']"
-"36","Mr. Russell","['Mr. Russell']"
-"37","Mr. Sadler","['Mr. Sadler']"
-"38","Mrs. Allan","['A Merry Voice', 'Mrs. Allan']"
-"39","Mrs. Andrews","['Mrs. Andrews']"
-"40","Mrs. Barry","['Mrs. Barry']"
-"41","Mrs. Bell","['Mrs. Bell']"
-"42","Mrs. Blewett","['Mrs. Blewett', 'Mrs. Peter', 'Mrs. Peter Blewett']"
-"43","Mrs. Evans","['Mrs. Evans']"
-"44","Mrs. Spencer","['Mrs. Spencer', 'Mrs. Alexander Spencer']"
-"45","Myrtle Bell","['Myrtle Bell']"
-"46","Priscilla Grant","['Priscilla Grant']"
-"47","Prissy Andrews","['Prissy Andrews']"
-"48","Professor Tremaine","['Professor Tremaine']"
-"49","Rachel Lynde","['Mrs. Rachel Lynde', 'Mrs. Lynde', 'Lynde', 'Rachel', 'Mrs. Rachel', 'Rachel Lynde']"
-"50","Ruby Gillis","['Ruby', 'Ruby Gillis']"
-"51","Stella Maynard","['Stella Maynard']"
-"52","Susan Gillis","['Susan Gillis']"
-"53","The Child","['The Child']"
-"54","The Oculist","['The Oculist']"
-"55","The Peddler","['The Peddler']"
-"56","The Pink Lady","['The Stout Lady In Pink Silk', 'The Pink Lady', 'A Stout Lady In Pink Silk']"
-"57","The Station-Master","['Stationmaster', 'The Stationmaster', 'The Station-Master']"
-"58","The White-Lace Girl","['The White-Lace Girl']"
-"59","Thomas Lynde","['Thomas Lynde']"
-"60","William Blair","['William Blair', 'William J. Blair']"
-"61","Somebody","['Somebody']"
-"62","Alice Andrews","['Alice Andrews']"
-"63","Arty Gillis","['Arty Gillis']"
-"64","Dr. Blair","['Dr. Blair']"
-"65","Dr. Spencer","['Dr. Spencer']"
-"66","Emma White","['Emma White']"
-"67","Gertie Pye","['Gertie Pye']"
-"68","Jenny Gillis","['Jenny Gillis']"
-"69","Jerry Buote","['Jerry Buote', 'Jerry']"
-"70","Jimmy Glover","['Jimmy Glover']"
-"71","Lauretta Bradley","['Lauretta Bradley']"
-"72","Minnie Andrews","['Minnie Andrews']"
-"73","Minnie Macpherson","['Minnie Macpherson']"
-"74","Minnie May","['Minnie May Barry', 'Minnie May']"
-"75","Miranda Sloane","['Miranda Sloane']"
-"76","Miss Lucilla Harris","['Miss Lucillia Harris', 'Miss Lucilla Harris']"
-"77","Mr. Bentley","['Mr. Bentley']"
-"78","Mr. Chester Ross","['Mr. Chester Ross']"
-"79","Mr. Gresham","['Mr. Gresham']"
-"80","Mr. Marshall","['Mr. Marshall']"
-"81","Mr. Silas Sloane","['Mr. Silas Sloane']"
-"82","Mr. Smith","['Mr. Smith']"
-"83","Mr. Terry","['Mr. Terry']"
-"84","Mr. Thomas","['Mr. Thomas']"
-"85","Mrs. Chester Ross","['Mrs. Chester Ross']"
-"86","Mrs. Hammond","['Mrs. Hammond']"
-"87","Mrs. Sloane","['Mrs. Sloane']"
-"88","Mrs. Thomas","['Mrs. Thomas']"
-"89","Rob Wright","['Rob Wright']"
-"90","Sara Gillis","['Sara Gillis']"
-"91","Sophia Sloane","['Sophia Sloane']"
-"92","The Doctor","['The Doctor']"
-"93","The Minister","['The Minister']"
-"94","The Premier","['The Premier']"
-"95","Tillie Boulter","['Tillie Boulter']"
-"96","Tommy Sloane","['Tommy Sloane']"
-"97","Mary Joe","['Young Mary Joe', 'Mary Joe']"
-"98","A Merchant","['A Merchant']"
-"99","Bertha Shirley","['Bertha Shirley']"
-"100","Bonny","['Bonny']"
-"101","Flora Jane","['Flora Jane']"
-"102","Hepzibah Jenkins","['Hepzibah Jenkins']"
-"103","Latin","['Latin']"
-"104","Lily Jones","['Lily Jones']"
-"105","Mary Alice Bell","['Mary Alice Bell']"
-"106","Miss Rogerson","['Miss Rogerson']"
-"107","Mr. Hammond","['Mr. Hammond']"
-"108","Mr. Kirke","['Mr. Kirke']"
-"109","Nancy","['Nancy Spencer', 'Nancy']"
-"110","Richard Spencer","['Richard Spencer']"
-"111","Robert Spencer","['Robert Spencer', 'Robert']"
-"112","The Matron","['The Matron']"
-"113","The Superintendent","['The Superintendent Of The Asylum Sunday School', 'The Superintendent']"
-"114","Walter Shirley","['Walter Shirley']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Alice Bell,['Alice Bell'],X,minor
+1,An American,['An American'],X,minor
+2,Anne Shirley,"{'Anne', 'Anne Shirley', 'Anne Of Green Gables'}",F,major
+3,Billy Andrews,['Billy Andrews'],X,minor
+4,Carrie Sloane,"{'Sloane', 'Carrie Sloane'}",F,minor
+5,Charlie Sloane,['Charlie Sloane'],X,minor
+6,Charlotte Gillis,['Charlotte Gillis'],X,minor
+7,Clara Louise Macpherson,['Clara Louise Macpherson'],X,minor
+8,Diana Barry,"{'Diana', 'Diana Barry'}",F,intermediate
+9,Doctor Spencer,['Doctor Spencer'],X,minor
+10,Emily Clay,['Emily Clay'],X,minor
+11,Emily Gillis,['Emily Gillis'],X,minor
+12,Frank Stockley,['Frank Stockley'],X,minor
+13,Gilbert Blythe,"{'Gilbert', 'Gil', 'Gilbert Blythe'}",M,minor
+14,Jane Andrews,"{'Jane Andrews', 'Jane'}",F,minor
+15,John Blythe,['John Blythe'],X,minor
+16,Julia Bell,['Julia Bell'],X,minor
+17,Laura Spencer,['Laura Spencer'],X,minor
+18,Madame Selitsky,['Madame Selitsky'],X,minor
+19,Malcolm Andres,['Malcolm Andres'],X,minor
+20,Marilla Cuthbert,"{'Marilla Cuthbert', 'Miss Cuthbert', 'Marilla'}",F,major
+21,Martin,['Martin'],X,minor
+22,Matthew Cuthbert,"{'Mr. Cuthbert', 'Cuthbert', 'Matthew', 'Matthew Cuthbert'}",M,intermediate
+23,Miss Ames,['Miss Ames'],F,minor
+24,Aunt Josephine,"{'Miss Josephine Barry', 'Josie', 'Josie Pye', 'Old Miss Barry', 'Gertie Pye', 'Aunt Josephine', 'Josephine Barry', 'Miss Barry'}",F,minor
+25,Miss Muriel Stacy,"{'Miss Stacy', 'Miss Muriel Stacy', 'Stacy'}",F,minor
+26,Moody Spurgeon,"{'Moody Spurgeon', 'Moody Spurgeon Macpherson'}",M,minor
+27,Mr. Abbey,['Mr. Abbey'],M,minor
+28,Mr. Allan,['Mr. Allan'],M,minor
+29,Mr. Andrews,['Mr. Andrews'],M,minor
+30,Mr. Barry,['Mr. Barry'],M,minor
+31,Mr. Superintendent Bell,['Mr. Superintendent Bell'],M,minor
+32,Mr. Gillis,['Mr. Gillis'],M,minor
+33,Mr. Phillips,"{'Mr. Phillips', 'Teddy Phillips'}",M,minor
+34,Mr. Pye,['Mr. Pye'],M,minor
+35,Mr. Russell,['Mr. Russell'],M,minor
+36,Mr. Sadler,['Mr. Sadler'],M,minor
+37,Mrs. Allan,"{'A Merry Voice', 'Mrs. Allan'}",F,minor
+38,Mrs. Andrews,['Mrs. Andrews'],F,minor
+39,Mrs. Barry,{'Mrs. Barry'},F,minor
+40,Mrs. Bell,['Mrs. Bell'],F,minor
+41,Mrs. Peter Blewett,"{'Mrs. Blewett', 'Mrs. Peter', 'Mrs. Peter Blewett'}",F,minor
+42,Mrs. Evans,['Mrs. Evans'],F,minor
+43,Mrs. Spencer,"{'Mrs. Spencer', 'Mrs. Alexander Spencer'}",F,minor
+44,Myrtle Bell,['Myrtle Bell'],X,minor
+45,Priscilla Grant,['Priscilla Grant'],X,minor
+46,Prissy Andrews,['Prissy Andrews'],X,minor
+47,Professor Tremaine,['Professor Tremaine'],X,minor
+48,Rachel Lynde,"{'Mrs. Lynde', 'Lynde', 'Mrs. Rachel', 'Mrs. Rachel Lynde', 'Rachel Lynde', 'Rachel'}",F,intermediate
+49,Ruby Gillis,"{'Ruby Gillis', 'Ruby'}",F,minor
+50,Stella Maynard,['Stella Maynard'],X,minor
+51,Susan Gillis,['Susan Gillis'],X,minor
+52,The Child,['The Child'],X,minor
+53,The Oculist,['The Oculist'],X,minor
+54,The Peddler,['The Peddler'],X,minor
+55,The Stout Lady In Pink Silk,"{'The Stout Lady In Pink Silk', 'The Pink Lady', 'A Stout Lady In Pink Silk'}",F,minor
+56,The Station-Master,"{'The Stationmaster', 'The Station-Master', 'Stationmaster'}",M,minor
+57,The White-Lace Girl,['The White-Lace Girl'],F,minor
+58,Thomas Lynde,['Thomas Lynde'],X,minor
+59,William Blair,['William Blair'],X,minor
+60,Somebody,['Somebody'],X,minor
+61,Alice Andrews,['Alice Andrews'],X,minor
+62,Arty Gillis,['Arty Gillis'],X,minor
+63,Dr. Blair,['Dr. Blair'],X,minor
+64,Dr. Spencer,['Dr. Spencer'],X,minor
+65,Emma White,['Emma White'],X,minor
+66,Jenny Gillis,['Jenny Gillis'],X,minor
+67,Jerry Buote,['Jerry Buote'],X,minor
+68,Jimmy Glover,{'Jimmy Glover'},M,minor
+69,Lauretta Bradley,['Lauretta Bradley'],X,minor
+70,Minnie Andrews,['Minnie Andrews'],X,minor
+71,Minnie Macpherson,['Minnie Macpherson'],X,minor
+72,Minnie May Barry,['Minnie May Barry'],X,minor
+73,Miranda Sloane,['Miranda Sloane'],X,minor
+74,Miss Lucillia Harris,"{'Miss Lucillia Harris', 'Miss Lucilla Harris'}",F,minor
+75,Mr. Bentley,['Mr. Bentley'],M,minor
+76,Mr. Chester Ross,['Mr. Chester Ross'],M,minor
+77,Mr. Gresham,['Mr. Gresham'],M,minor
+78,Mr. Marshall,['Mr. Marshall'],M,minor
+79,Mr. Silas Sloane,['Mr. Silas Sloane'],M,minor
+80,Mr. Smith,['Mr. Smith'],M,minor
+81,Mr. Terry,['Mr. Terry'],M,minor
+82,Mr. Thomas,['Mr. Thomas'],M,minor
+83,Mrs. Chester Ross,['Mrs. Chester Ross'],F,minor
+84,Mrs. Hammond,['Mrs. Hammond'],F,minor
+85,Mrs. Sloane,['Mrs. Sloane'],F,minor
+86,Mrs. Thomas,['Mrs. Thomas'],F,minor
+87,Rob Wright,['Rob Wright'],X,minor
+88,Sara Gillis,['Sara Gillis'],X,minor
+89,Sophia Sloane,['Sophia Sloane'],X,minor
+90,The Doctor,{'The Doctor'},M,minor
+91,The Minister,['The Minister'],X,minor
+92,The Premier,['The Premier'],X,minor
+93,Tillie Boulter,['Tillie Boulter'],X,minor
+94,Tommy Sloane,['Tommy Sloane'],X,minor
+95,Young Mary Joe,['Young Mary Joe'],X,minor
+96,A Merchant,['A Merchant'],X,minor
+97,Bertha Shirley,['Bertha Shirley'],X,minor
+98,Bonny,['Bonny'],X,minor
+99,Flora Jane,{'Flora Jane'},F,minor
+100,Hepzibah Jenkins,['Hepzibah Jenkins'],X,minor
+101,Latin,['Latin'],X,minor
+102,Lily Jones,['Lily Jones'],X,minor
+103,Mary Alice Bell,['Mary Alice Bell'],X,minor
+104,Miss Rogerson,['Miss Rogerson'],F,minor
+105,Mr. Hammond,['Mr. Hammond'],M,minor
+106,Mr. Kirke,['Mr. Kirke'],M,minor
+107,Nancy,['Nancy'],X,minor
+108,Richard Spencer,['Richard Spencer'],X,minor
+109,Robert Spencer,['Robert Spencer'],X,minor
+110,The Matron,['The Matron'],X,minor
+111,The Superintendent,['The Superintendent'],X,minor
+112,Walter Shirley,['Walter Shirley'],X,minor

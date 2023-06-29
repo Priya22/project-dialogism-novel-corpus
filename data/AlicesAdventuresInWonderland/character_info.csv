@@ -1,52 +1,52 @@
-"Character ID","Main Name","Aliases"
-"0","Alice","['Alice']"
-"1","Bill, The Lizard","['Bill, The Lizard']"
-"2","Five","['Five']"
-"3","Hare","['March Hare', 'Hare']"
-"4","Her Sister","['Her Sister', ""Alice'S Sister""]"
-"5","Seven","['Seven']"
-"6","The Cat","['The Cat', 'Cheshire Cat']"
-"7","The Caterpillar","['The Caterpillar']"
-"8","The Cook","['The Cook']"
-"9","The Dodo","['The Dodo']"
-"10","The Dormouse","['A Dormouse', 'The Dormouse']"
-"11","The Duchess","['The Duchess']"
-"12","The Executioner","['The Executioner']"
-"13","The Gryphon","['A Gryphon', 'The Gryphon']"
-"14","The Hatter","['The Hatter']"
-"15","The King","['The King Of Hearts', 'The King']"
-"16","Knave Of Hearts","['The Knave Of Hearts', 'Knave Of Hearts']"
-"17","The Mock Turtle","['The Mock Turtle']"
-"18","The Mouse","['The Mouse']"
-"19","The Pigeon","['The Pigeon']"
-"20","The Queen","['The Queen', 'The Queen Of Hearts']"
-"21","The Rabbit","['The Rabbit', 'The White Rabbit']"
-"22","Time","['Time']"
-"23","Tortoise","['Tortoise']"
-"24","Two","['Two']"
-"25","A Canary","['Canarie', 'A Canary']"
-"26","A Farmer","['A Farmer']"
-"27","A Little Bright-Eyed Terrier","['A Little Bright-Eyed Terrier']"
-"28","Ada","['Ada']"
-"29","An Enormous Puppy","['An Enormous Puppy']"
-"30","An Old Crab","['An Old Crab', 'Old Crab']"
-"31","Bill","['Bill']"
-"32","Dinah","['Dinah', 'Dinah The Cat']"
-"33","Edgar Atheling","['Edgar Atheling']"
-"34","Edwin","['Edwin']"
-"35","Mabel","['Mabel']"
-"36","Mary Ann","['Mary Ann']"
-"37","Morcar","['Morcar']"
-"38","Old Magpie","['Magpie', 'Old Magpie']"
-"39","Pat","['Pat']"
-"40","Stigand","['Stigand']"
-"41","The Baby","['Pig', 'The Baby']"
-"42","The Duck","['The Duck']"
-"43","The Eaglet","['The Eaglet']"
-"44","The Fish-Footman","['The Fish-Footman']"
-"45","The Frog-Footman","['The Frog-Footman', 'The Footman']"
-"46","The Little Crocodile","['The Little Crocodile']"
-"47","The Lory","['The Lory']"
-"48","The Pope","['The Pope']"
-"49","The Young Crab","['Young Crab', 'The Young Crab']"
-"50","William The Conqueror","['William The Conqueror']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Alice,{'Alice'},F,major
+1,"Bill, The Lizard","['Bill, The Lizard']",X,minor
+2,Five,{'Five'},M,minor
+3,Hare,"{'March Hare', 'Hare'}",M,minor
+4,Alice'S Sister,"{'Her Sister', ""Alice'S Sister""}",F,minor
+5,Seven,{'Seven'},M,minor
+6,The Cat,"{'The Cat', 'Cheshire Cat'}",U,intermediate
+7,The Caterpillar,{'The Caterpillar'},M,intermediate
+8,The Cook,{'The Cook'},F,minor
+9,The Dodo,{'The Dodo'},M,minor
+10,The Dormouse,"{'A Dormouse', 'The Dormouse'}",M,intermediate
+11,The Duchess,{'The Duchess'},F,intermediate
+12,The Executioner,['The Executioner'],X,minor
+13,The Gryphon,"{'The Gryphon', 'A Gryphon'}",M,intermediate
+14,The Hatter,{'The Hatter'},M,intermediate
+15,The King Of Hearts,"{'The King', 'The King Of Hearts'}",M,intermediate
+16,The Knave Of Hearts,"{'Knave Of Hearts', 'The Knave Of Hearts'}",M,minor
+17,The Mock Turtle,{'The Mock Turtle'},M,intermediate
+18,The Mouse,{'The Mouse'},U,minor
+19,The Pigeon,{'The Pigeon'},F,minor
+20,The Queen,"{'The Queen', 'The Queen Of Hearts'}",F,intermediate
+21,The White Rabbit,"{'The Rabbit', 'The White Rabbit'}",M,intermediate
+22,Time,['Time'],X,minor
+23,Tortoise,['Tortoise'],X,minor
+24,Two,{'Two'},M,minor
+25,A Canary,"{'Canarie', 'A Canary'}",U,minor
+26,A Farmer,['A Farmer'],X,minor
+27,A Little Bright-Eyed Terrier,['A Little Bright-Eyed Terrier'],X,minor
+28,Ada,['Ada'],X,minor
+29,An Enormous Puppy,['An Enormous Puppy'],X,minor
+30,An Old Crab,"{'Old Crab', 'An Old Crab'}",F,minor
+31,Bill,{'Bill'},M,minor
+32,Dinah,['Dinah'],X,minor
+33,Edgar Atheling,['Edgar Atheling'],X,minor
+34,Edwin,['Edwin'],X,minor
+35,Mabel,['Mabel'],X,minor
+36,Mary Ann,['Mary Ann'],X,minor
+37,Morcar,['Morcar'],X,minor
+38,Old Magpie,"{'Magpie', 'Old Magpie'}",U,minor
+39,Pat,{'Pat'},M,minor
+40,Stigand,['Stigand'],X,minor
+41,The Baby,['The Baby'],X,minor
+42,The Duck,{'The Duck'},M,minor
+43,The Eaglet,{'The Eaglet'},F,minor
+44,The Fish-Footman,{'The Fish-Footman'},M,minor
+45,The Frog-Footman,"{'The Footman', 'The Frog-Footman'}",M,minor
+46,The Little Crocodile,['The Little Crocodile'],X,minor
+47,The Lory,{'The Lory'},F,minor
+48,The Pope,['The Pope'],X,minor
+49,The Young Crab,"{'Young Crab', 'The Young Crab'}",F,minor
+50,William The Conqueror,['William The Conqueror'],X,minor

@@ -1,83 +1,75 @@
-"Character ID","Main Name","Aliases"
-"0","Butler","['Butler']"
-"1","Bingley","['Charles Bingley', 'Bingley', 'Charles', 'Mr. Bingley']"
-"2","Lady Lucas","['Lady Lucas', 'Miss Lucas', 'Charlotte Lucas', 'Mrs. Collins', 'Charlotte']"
-"3","Fitzwilliam","['Fitzwilliam', 'Colonel Fitzwilliam']"
-"4","Colonel Forster","['Colonel Forster']"
-"5","Denny","['Denny']"
-"6","Elizabeth","['My Dear Miss Elizabeth', 'My Dearest Lizzy', 'Lizzy', 'Miss Elizabeth', 'Miss Lizzy', 'Eliza', 'Elizabeth', 'Miss Eliza', 'My Dear Miss Eliza']"
-"7","Mr. Wickham","['Mr. Wickham', 'Wickham', 'George Wickham']"
-"8","Jane","['Bennet', 'Miss Bennet', 'Mrs. Bennet', 'Jane', 'My Dear Jane']"
-"9","John","['John', 'The Servant']"
-"10","Kitty","['Kitty']"
-"11","Lady Catherine De Bourgh","['Catherine', 'Lady Catherine De Bourgh', 'Lady Catherine']"
-"12","Lady Lucas","['Lady Lucas']"
-"13","Lydia","['Mrs. Wickham', 'Lydia']"
-"14","Maria","['Maria', 'Maria Lucas']"
-"15","Mary","['Mary']"
-"16","Miss Bingley","['Caroline', 'Miss Bingley']"
-"17","Miss Darcy","['Georgiana', 'Georgiana Darcy', 'Miss Darcy']"
-"18","Miss De Bourgh","['Miss De Bourgh']"
-"19","Mr. Bennet","['Mr. Bennet']"
-"20","Bingley","['Bingley', 'Mr. Bingley']"
-"21","Mr. Collins","['Mr. Collins', 'William Collins']"
-"22","Darcy","['Mr. Darcy', 'Darcy']"
-"23","Mr. Gardiner","['Mr. Gardiner']"
-"24","Mr. Goulding","['William Goulding', 'Mr. Goulding']"
-"25","Mr. Hurst","['Mr. Hurst']"
-"26","Mr. Stone","['Mr. Stone']"
-"27","Mrs. Annesley","['Mrs. Annesley']"
-"28","Mrs. Bennet","['Mrs. Bennet']"
-"29","Mrs. Forster","['Mrs. Forster']"
-"30","Mrs. Gardiner","['Mrs. Gardiner']"
-"31","Mrs. Goulding","['Mrs. Goulding']"
-"32","Hill","['Mrs. Hill', 'Hill']"
-"33","Mrs. Hurst","['Mrs. Hurst', 'Louisa']"
-"34","Mrs. Long","['Mrs. Long']"
-"35","Mrs. Nicholls","['Mrs. Nicholls']"
-"36","Mrs. Philips","['Mrs. Philips']"
-"37","Mrs. Reynolds","['Mrs. Reynolds']"
-"38","Sarah","['Sarah']"
-"39","Sir William","['Sir William Lucas', 'Sir William']"
-"40","The Late Mr. Darcy","['The Late Mr. Darcy']"
-"41","Anne De Bourgh","['Anne De Bourgh', 'Lady Anne', 'Miss De Bourgh', 'The Heiress Of Rosings']"
-"42","Aunt Philips","['Aunt Philips']"
-"43","Lady Darcy","['Lady Darcy']"
-"44","Madam","['Madam']"
-"45","Mr. Denny","['Mr. Denny', 'Mr. Denney']"
-"46","Mrs. Forester","['Mrs. Forester']"
-"47","Ms. Bingley","['Ms. Bingley']"
-"48","Ms. Reynolds","['Ms. Reynolds']"
-"49","Reynolds","['Mrs. Reynolds', 'Reynolds']"
-"50","Sir","['Sir']"
-"51","Caroline","['Caroline']"
-"52","Chamberlayne","['Chamberlayne']"
-"53","Colonel Millar","['Colonel Millar']"
-"54","Harriet","['Harriet']"
-"55","Louisa","['Louisa']"
-"56","Mary King","['Mary King', 'Miss King']"
-"57","Mrs. Jenkinson","['Mrs. Jenkinson']"
-"58","Pen","['Pen']"
-"59","Pratt","['Pratt']"
-"60","The Waiter","['The Waiter']"
-"61","Harriet Harrington","['Harriet Harrington']"
-"62","Lady Anne Darcy","['Lady Anne Darcy']"
-"63","Mr. Darcy Of Pemberley","['Mr. Darcy Of Pemberley']"
-"64","Pen Harrington","['Pen Harrington']"
-"65","Lady Metcalfe","['Lady Metcalfe']"
-"66","Miss King","['Miss King']"
-"67","Miss Pope","['Miss Pope']"
-"68","Sir Lewis De Bourgh","['Sir Lewis De Bourgh']"
-"69","Mr. Philips","['Uncle Philips', 'Mr. Philips']"
-"70","Richard","['Richard']"
-"71","Mr. Collins' Father","[""Mr. Collins' Father""]"
-"72","Mr. Wickham'S Father","['Old Wickham', ""Mr. Wickham'S Father""]"
-"73","Captain Carter","['Captain Carter']"
-"74","Clarke","['Clarke']"
-"75","Miss Grantley","['Miss Grantley']"
-"76","Miss Watson","['Miss Watson']"
-"77","Mr. Jones","['Mr. Jones']"
-"78","Mr. Phillips","['Mr. Phillips']"
-"79","Mr. Morris","['Mr. Morris']"
-"80","Mr. Robinson","['Mr. Robinson', 'Mr. Robinson\xa0']"
-"81","Young Lucas","['A Young Lucas', 'Young Lucas']"
+Character ID,Main Name,Aliases,Gender,Category
+0,Butler,{'Butler'},M,minor
+1,Charlotte Lucas,"{'Mrs. Collins', 'Miss Lucas', 'Charlotte Lucas', 'Lady Lucas', 'Charlotte'}",F,intermediate
+2,Colonel Fitzwilliam,"{'Colonel Fitzwilliam', 'Fitzwilliam'}",M,intermediate
+3,Colonel Forster,['Colonel Forster'],X,minor
+4,Denny,['Denny'],X,minor
+5,Elizabeth,"{'My Dear Miss Eliza', 'Lizzy', 'My Dear Miss Elizabeth', 'Miss Elizabeth', 'Miss Eliza', 'Elizabeth', 'Eliza', 'My Dearest Lizzy', 'Miss Lizzy'}",F,major
+6,George Wickham,"{'Wickham', 'George Wickham', 'Mr. Wickham'}",M,intermediate
+7,Jane,"{'Miss Bennet', 'Jane', 'My Dear Jane'}",F,intermediate
+8,John,['John'],X,minor
+9,Kitty,{'Kitty'},F,minor
+10,Lady Catherine De Bourgh,"{'Lady Catherine', 'Catherine', 'Lady Catherine De Bourgh'}",F,intermediate
+11,Lydia,"{'Lydia', 'Mrs. Wickham'}",F,intermediate
+12,Maria,"{'Maria', 'Maria Lucas'}",F,minor
+13,Mary,{'Mary'},F,minor
+14,Miss Bingley,"{'Miss Bingley', 'Caroline', 'Ms. Bingley'}",F,intermediate
+15,Miss Darcy,['Miss Darcy'],F,minor
+16,Mr. Bennet,{'Mr. Bennet'},M,intermediate
+17,Mr. Bingley,"{'Mr. Bingley', 'Charles Bingley', 'Charles', 'Bingley'}",M,intermediate
+18,Mr. Collins,"{'Mr. Collins', 'William Collins'}",M,intermediate
+19,Mr. Darcy,"{'Darcy', 'Mr. Darcy'}",M,major
+20,Mr. Gardiner,{'Mr. Gardiner'},M,minor
+21,William Goulding,['William Goulding'],X,minor
+22,Mr. Hurst,{'Mr. Hurst'},M,minor
+23,Mr. Stone,['Mr. Stone'],M,minor
+24,Mrs. Annesley,['Mrs. Annesley'],F,minor
+25,Mrs. Bennet,"{'Bennet', 'Mrs. Bennet'}",F,major
+26,Mrs. Forster,['Mrs. Forster'],F,minor
+27,Mrs. Gardiner,{'Mrs. Gardiner'},F,intermediate
+28,Mrs. Goulding,['Mrs. Goulding'],F,minor
+29,Mrs. Hill,"{'Hill', 'Mrs. Hill'}",F,minor
+30,Mrs. Hurst,"{'Louisa', 'Mrs. Hurst'}",F,minor
+31,Mrs. Long,['Mrs. Long'],F,minor
+32,Mrs. Nicholls,['Mrs. Nicholls'],F,minor
+33,Mrs. Philips,{'Mrs. Philips'},F,minor
+34,Sarah,['Sarah'],X,minor
+35,Sir William Lucas,"{'Sir William Lucas', 'Sir William'}",M,minor
+36,The Late Mr. Darcy,['The Late Mr. Darcy'],M,minor
+37,Anne De Bourgh,['Anne De Bourgh'],X,minor
+38,Aunt Philips,['Aunt Philips'],X,minor
+39,Lady Darcy,['Lady Darcy'],F,minor
+40,Madam,['Madam'],X,minor
+41,Mr. Denney,"{'Mr. Denney', 'Mr. Denny'}",M,minor
+42,Mrs. Forester,['Mrs. Forester'],F,minor
+43,Ms. Reynolds,['Ms. Reynolds'],F,minor
+44,Mrs. Reynolds,"{'Mrs. Reynolds', 'Reynolds'}",F,minor
+45,Sir,['Sir'],M,minor
+46,Chamberlayne,['Chamberlayne'],X,minor
+47,Colonel Millar,['Colonel Millar'],X,minor
+48,Harriet,['Harriet'],X,minor
+49,Mrs. Jenkinson,['Mrs. Jenkinson'],F,minor
+50,Pen,['Pen'],X,minor
+51,Pratt,['Pratt'],X,minor
+52,The Waiter,['The Waiter'],X,minor
+53,Harriet Harrington,['Harriet Harrington'],X,minor
+54,Lady Anne Darcy,['Lady Anne Darcy'],F,minor
+55,Mr. Darcy Of Pemberley,['Mr. Darcy Of Pemberley'],M,minor
+56,Pen Harrington,['Pen Harrington'],X,minor
+57,Lady Metcalfe,['Lady Metcalfe'],F,minor
+58,Miss King,['Miss King'],F,minor
+59,Miss Pope,['Miss Pope'],F,minor
+60,Sir Lewis De Bourgh,['Sir Lewis De Bourgh'],M,minor
+61,Mr. Philips,['Mr. Philips'],M,minor
+62,Richard,['Richard'],X,minor
+63,Mr. Collins' Father,"[""Mr. Collins' Father""]",M,minor
+64,Mr. Wickham'S Father,"[""Mr. Wickham'S Father""]",M,minor
+65,Captain Carter,['Captain Carter'],X,minor
+66,Clarke,['Clarke'],X,minor
+67,Miss Grantley,['Miss Grantley'],F,minor
+68,Miss Watson,['Miss Watson'],F,minor
+69,Mr. Jones,['Mr. Jones'],M,minor
+70,Mr. Phillips,['Mr. Phillips'],M,minor
+71,Mr. Morris,['Mr. Morris'],M,minor
+72,Mr. Robinson,['Mr. Robinson'],M,minor
+73,A Young Lucas,"{'A Young Lucas', 'Young Lucas'}",M,minor
