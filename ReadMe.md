@@ -3,7 +3,8 @@
 This repository contains data associated with the [The Project Dialogism Novel Corpus:
 A Dataset for Quotation Attribution in Literary Texts](https://arxiv.org/abs/2204.05836).
 
-**Updates (29 JUNE 2023)** 
+
+**Updates (29 JUNE 2023)**
 - Data for 6 novels has been added to PDNC. The novels are: "Mansfield Park", "Hard Times", "Oliver Twist", "Winnie The Pooh", "Where Angels Fear to Tread", and "A Passage to India".  
 - Character information for many novels has been updated with gender information.
 - Various errors in metadata have been corrected.
@@ -40,6 +41,8 @@ In the `data` folder, for each novel, there are three files:
     - `Character ID`: The ID assigned to the character
     - `Main Name`: The *main* name associated with each character
     - `Aliases`: A list of aliases by which the character is referred to throughout the text
+    - `Gender`: Character gender, as inferred from pronouns used by the author. 'U' if unknown, 'X' if un-annotated.
+    - `Category`: A rough categorization into major, intermediate, and minor characters based on the amount ad proportion of spoken dialogue.
 
 ### Helper Files
 The IPython notebook `load_data.ipynb` shows how to load and read the data files for a novel using the `pandas` library for Python (version 3.7 or above).
