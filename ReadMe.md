@@ -47,7 +47,7 @@ The IPython notebook `load_data.ipynb` shows how to load and read the data files
 
 
 ## Contact
-Please get in touch with any corrections and/or comments!
+The authors can be contacted via email.
 
 - [Krishnapriya Vishnubhotla](https://priya22.github.io/) (University of Toronto)
 - [Adam Hammond](https://www.adamhammond.com/) (University of Toronto)
