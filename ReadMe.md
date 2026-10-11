@@ -47,7 +47,23 @@ In the `data` folder, for each novel, there are three files:
 ### Helper Files
 The IPython notebook `load_data.ipynb` shows how to load and read the data files for a novel using the `pandas` library for Python (version 3.7 or above).
 
-
+## License
+PDNC is free to use under the CC-BY 4.0 License. If you find our resources helpful, please [cite the work](https://aclanthology.org/2022.lrec-1.628/) as follows:
+```
+@inproceedings{vishnubhotla-etal-2022-project,
+    title = "The Project Dialogism Novel Corpus: A Dataset for Quotation Attribution in Literary Texts",
+    author = "Vishnubhotla, Krishnapriya  and
+      Hammond, Adam  and
+      Hirst, Graeme",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.628/",
+    pages = "5838--5848",
+}
+```
 
 ## Contact
 The authors can be contacted via email.
