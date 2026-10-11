@@ -1,7 +1,7 @@
 # The Project Dialogism Novel Corpus
 
 This repository contains data associated with the [The Project Dialogism Novel Corpus:
-A Dataset for Quotation Attribution in Literary Texts](https://arxiv.org/abs/2204.05836).
+A Dataset for Quotation Attribution in Literary Texts](https://aclanthology.org/2022.lrec-1.628/).
 
 
 **Updates (29 JUNE 2023)**
